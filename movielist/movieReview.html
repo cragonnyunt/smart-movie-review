@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Smart Movie Review - Review for every movies</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="../css/bootstrap.min.css">
+		<link rel="stylesheet" href="../css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="../css/jquery-ui.min.css">
+		<link rel="stylesheet" href="../css/jquery-ui.structure.min.css">
+		<link rel="stylesheet" href="../css/jquery-ui.theme.min.css">
+		<link rel="stylesheet" href="../css/style.css">
+		<script src="../js/jquery.min.js"></script>
+		<script src="../js/bootstrap.min.js"></script>
+		<script src="../js/jquery-ui.min.js"></script>
+		<script src="../js/javascript.js"></script>
+		<style type="text/css">
+			li.pil {
+				min-width: 220px;
+				max-width: 220px;
+			}
+			div.page-header table {
+				width: 100%;
+			}
+			div.page-header h2 {
+				display: inline; 
+				margin-top: -10px;
+			}
+			div.page-header p {
+				font-size: 17px;
+			}
+			div.div_blocks {
+				width: 95%;
+				margin: auto;
+			}
+			div#info img {
+				width: 50%;
+				margin-bottom: 20px;
+				box-shadow: 10px 10px 5px #888888;
+			}
+			div#review {
+				margin-top: 40px;
+				margin-bottom: 40px;
+			}
+			div#info h3, div#review h3, div#trailer h3 {
+				margin-bottom: 20px;
+			}
+			div#review span.label {
+				font-size: 15px;
+			}
+			div#review a:hover, div#review a:focus {
+				text-decoration: none;
+			}
+			div#trailer video {
+				width: 100%;
+			}
+		</style>
+		<script type="text/javascript">
+			var short_opened = true;
+			var long_opened = false;
+			
+			function click_rev_short() {
+				if(short_opened) {
+					document.getElementById('_sign_rev_sh').className = "glyphicon glyphicon-plus";
+					$('#_sign_rev_sh_text').text('Show Short Review');
+				} else {
+					document.getElementById('_sign_rev_sh').className = "glyphicon glyphicon-minus";
+					$('#_sign_rev_sh_text').text('Hide Short Review');
+				}
+				short_opened = !short_opened;
+			}
+			
+			function click_rev_long() {
+				if(long_opened) {
+					document.getElementById('_sign_rev_lg').className = "glyphicon glyphicon-plus";
+					$('#_sign_rev_lg_text').text('Show Long Review');
+				} else {
+					document.getElementById('_sign_rev_lg').className = "glyphicon glyphicon-minus"
+					$('#_sign_rev_lg_text').text('Hide Long Review');
+				}
+				long_opened = !long_opened;
+			}
+			
+			function getTitle() {
+				var title = window.location.hash;
+				title = title.substring(title.indexOf('=') + 1, title.indexOf('%26'));
+				return decodeURIComponent(atob(title));
+			}
+			
+			function getYear() {
+				var year = window.location.hash;
+				year = year.substr(year.indexOf('%26') + 3);
+				return decodeURIComponent(atob(year.substr(year.indexOf('=') + 1)));
+			}
+			
+			function checkVideo() {
+				if (!!document.createElement('video').canPlayType) {
+					var vidTest = document.createElement("video");
+					oggTest = vidTest.canPlayType('video/ogg; codecs="theora, vorbis"');
+					if (!oggTest) {
+						h264Test = vidTest.canPlayType('video/mp4; codecs="avc1.42E01E, mp4a.40.2"');
+						if (!h264Test)
+							alert("Sorry. No HTML5 video support. Try flash!");
+					}
+				}
+				else
+					alert("Sorry. No HTML5 video support. Try flash!");
+			}
+			
+			function setTrailer(trailer) {
+				var $video = $('<video></video>');
+				$video.attr({
+					'width' : 640,
+					'height' : 360,
+					'preload' : 'metadata',
+					'controls' : 'controls',
+					'oncontextmenu' : 'return false;'
+				});
+				var $source = $('<source></source>');
+				$source.attr({
+					'type' : 'video/mp4',
+					'src' : trailer
+				});
+				var $object = $('<object></object>');
+				$object.attr({
+					'width' : 640,
+					'height' : 360,
+					'type' : 'video/mp4',
+					'data' : trailer
+				});
+				var $embed = $('<embed></embed>');
+				$embed.attr({
+					'width' : 640,
+					'height' : 360,
+					'type' : 'video/mp4',
+					'src' : trailer
+				});
+				var $p = $('<p></p>').text('Your browser does not support videos.');
+				var $a = $('<a></a>').text('Download Trailer');
+				
+				$embed.append($p);
+				$embed.append($a);
+				$object.append($embed);
+				$video.append($source);
+				//$video.append($object);
+				
+				$('#trailer').append($video);
+			}
+			
+			$(document).ready(function() {
+				checkVideo();
+				$.ajax({
+					type: "GET",
+					url: "../movielist/movielist.xml",
+					dataType: "xml",
+					timeout: "5000",
+					error: function(request, option, error) {
+						console.log($(error));
+						alert('Failed to load movie data, try refresh again or contact the administrator. ');
+					},
+					success: function(xml, status, xhr) {
+						var $movie = $(xml).find('movie').filter(function() {
+							return $(this).find('title').text() === getTitle() && $(this).find('year').text() === getYear();
+						}).closest('movie');
+						
+						document.title = getTitle() + ' (' + getYear() + ') - Smart Movie Review Channel';
+						
+						$('.movie_title').text($('title', $movie).text());
+						$('#movie_year').text($('year', $movie).text());
+						
+						var imdb = parseFloat($('imdb', $movie).text());
+						if(isNaN(imdb))
+							$('#imdb_rating').addClass('label label-primary');
+						else if (imdb >= 0.0 && imdb < 4.0)
+							$('#imdb_rating').addClass('label label-danger');
+						else if (imdb >= 4.0 && imdb < 6.0)
+							$('#imdb_rating').addClass('label label-warning');
+						else
+							$('#imdb_rating').addClass('label label-success');
+						$('#imdb_rating').text($('#imdb_rating').text() + imdb);
+						
+						var rotten = parseInt($('rotten', $movie).text());
+						if(isNaN(rotten))
+							$('#rotten_rating').addClass('label label-primary');
+						else if (rotten >= 0 && rotten < 40)
+							$('#rotten_rating').addClass('label label-danger');
+						else if (rotten >= 40 && rotten < 60)
+							$('#rotten_rating').addClass('label label-warning');
+						else
+							$('#rotten_rating').addClass('label label-success');
+						$('#rotten_rating').text($('#rotten_rating').text() + rotten + '%');
+						
+						$('#movie_info').attr('src', '../' + $('poster', $movie).text());
+						$("<style>body#movieReview:before { background-image: url('" + "../" + $('poster', $movie).text() + "'); }</style>").appendTo("head");
+						$('#short_review_text').text($('short', $movie).text());
+						$('#long_review_text').text($('long_re', $movie).text());
+						$('#movie_date').text($('date', $movie).text());
+						$('#movie_length').text($('length', $movie).text());
+						$('#movie_web').text($('web', $movie).text());
+						$('#movie_web').attr({
+							'href' : $('web', $movie).text(),
+							'target' : '_blank'
+						});
+						
+						var c = new Array();
+						var i = 0;
+						$('casts', $movie).find('cast').each(function() {
+							c[i++] = $(this).text();
+						});
+						var _str = c.sort().join(', ');						
+						$('#movie_casts').text(_str);
+						
+						c = new Array();
+						i = 0;
+						$('directors', $movie).find('director').each(function() {
+							c[i++] = $(this).text();
+						});
+						_str = c.sort().join(', ');						
+						$('#movie_directors').text(_str);
+						
+						c = new Array();
+						i = 0;
+						$('genres', $movie).find('genre').each(function() {
+							c[i++] = $(this).text();
+						});
+						_str = c.sort().join(', ');
+						$('#movie_genres').text(_str);
+						
+						c = new Array();
+						i = 0;
+						$('companies', $movie).find('company').each(function() {
+							c[i++] = $(this).text();
+						});
+						_str = c.sort().join(', ');
+						$('#movie_company').text(_str);		
+
+						setTrailer('../' + $('trailer', $movie).text());
+					}
+				});
+			});
+		</script>
+	</head>
+	<body id="movieReview" data-spy="scroll" data-target="#myScrollspy" data-offset="51">
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="../../SmartMovieReview">Smart Movie Review Channel</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav">
+						<li><a href="../../SmartMovieReview">Home</a></li>
+						<li class="dropdown active">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Movies <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="../movielist/movies.html#genre=QWN0aW9u">Action</a></li>
+								<li><a href="../movielist/movies.html#genre=QWR2ZW50dXJl">Adventure</a></li>
+								<li><a href="../movielist/movies.html#genre=QW5pbWF0aW9u">Animation</a></li>
+								<li><a href="../movielist/movies.html#genre=Q29tZWR5">Comedy</a></li>
+								<li><a href="../movielist/movies.html#genre=Q3JpbWU=">Crime</a></li>
+								<li><a href="../movielist/movies.html#genre=RHJhbWE=">Drama</a></li>
+								<li><a href="../movielist/movies.html#genre=RmFtaWx5">Family</a></li>
+								<li><a href="../movielist/movies.html#genre=RmFudGFzeQ==">Fantasy</a></li>
+								<li><a href="../movielist/movies.html#genre=SGlzdG9yeQ==">History</a></li>
+								<li><a href="../movielist/movies.html#genre=SG9ycm9y">Horror</a></li>
+								<li><a href="../movielist/movies.html#genre=TXlzdGVyeQ==">Mystery</a></li>
+								<li><a href="../movielist/movies.html#genre=Um9tYW5jZQ==">Romance</a></li>
+								<li><a href="../movielist/movies.html#genre=U2NpLUZp">Sci-Fi</a></li>
+								<li><a href="../movielist/movies.html#genre=VGhyaWxsZXI=">Thriller</a></li>
+								<li><a href="../movielist/movies.html#genre=V2VzdGVybg==">Western</a></li>
+								<li class="divider"></li>
+								<li><a href="../movielist/movies.html">Browse all movies</a></li>
+							</ul>
+						</li>
+						<li><a href="../news.html">News</a></li>
+						<li><a href="../contactus.html">Contact Us</a></li>
+						<li><a href="../aboutus.html">About Us</a></li>
+					</ul>
+					<form role="search" name="form0" onsubmit="return search_movie(this);" class="navbar-form navbar-right">
+						<div class="input-group input-group-sm">
+							<input type="text" name="txtSearch" id="txtSearch" class="form-control" placeholder="Search Movie" required>
+							<span class="input-group-btn">
+								<button class="btn btn-info" type="submit">
+									<span class="glyphicon glyphicon-search"></span>
+								</button>
+							</span>
+						</div>
+					</form>
+				</div>
+			</div>
+		</nav>
+		<div class="container-fluid">
+			<div id="mainbody">
+				<ul class="breadcrumb">
+					<li><a href="../../SmartMovieReview">Home</a></li>
+					<li><a href="../movielist/movies.html">Movies</a></li>
+					<li class="active"><span class="movie_title"/>title</li>
+				</ul>
+				<div class="page-header">
+					<table>
+						<tbody>
+							<tr>
+								<td rowspan="2">
+									<h2><span class="movie_title"></span> (<span id="movie_year"></span>)</h2>
+								</td>
+								<td>
+									<p class="text-right"><span id="imdb_rating">IMDB </span></p>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<p class="text-right"><span id="rotten_rating">Rotten </span></p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="container-fluid" style="clear: both;">
+					<div class="row">
+						<nav class="col-md-3" id="myScrollspy" >
+							<ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
+								<li class="active pil"><a href="#info">Info</a></li>
+								<li class="pil"><a href="#review">Review</a></li>
+								<li class="pil"><a href="#trailer">Trailer</a></li>
+							</ul>
+						</nav>
+						<div class="col-md-9">
+							<div class="div_blocks" id="info">
+								<h3>Poster</h3>
+								<img class="img-rounded" id="movie_info">
+								<table class="table">
+									<tbody>
+										<tr>
+											<td>Date</td>
+											<td><span id="movie_date"></span></td>
+										</tr>
+										<tr>
+											<td>Casts</td>
+											<td><span id="movie_casts"></span></td>
+										</tr>
+										<tr>
+											<td>Directors</td>
+											<td><span id="movie_directors"></span></td>
+										</tr>
+										<tr>
+											<td>Genres</td>
+											<td><span id="movie_genres"></span></td>
+										</tr>
+										<tr>
+											<td>Company</td>
+											<td><span id="movie_company"></span></td>
+										</tr>
+										<tr>
+											<td>Length (minutes)</td>
+											<td><span id="movie_length"></span></td>
+										</tr>
+										<tr>
+											<td>Website</td>
+											<td><a id="movie_web"></a></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<hr></hr>
+							<div class="div_blocks" id="review">
+								<h3>Reviews</h3>
+								<p><span class="glyphicon glyphicon-minus" id="_sign_rev_sh"></span> <a data-toggle="collapse" href="#short_review" onclick="click_rev_short()"><span id="_sign_rev_sh_text" class="label label-primary">Hide Short Review</span></a></p>
+								<div id="short_review" class="in">
+									<p id="short_review_text" class="text-justify"></p>
+								</div>
+								<p><span class="glyphicon glyphicon-plus" id="_sign_rev_lg"></span> <a data-toggle="collapse" href="#long_review" onclick="click_rev_long()"><span id="_sign_rev_lg_text" class="label label-primary">Show Long Review</span></a> <span class="help-block">(may contains SPOILERS!!!)</span></p>
+								<div id="long_review" class="collapse">
+									<p id="long_review_text" class="text-justify"></p>
+								</div>
+							</div>
+							<hr></hr>
+							<div class="div_blocks" id="trailer">
+								<h3>Trailer</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr/>
+		<footer class="container-fluid">
+			<div class="container-fluid">
+				<div id="footerImg">
+					<h4><a href="../../SmartMovieReview">Smart Movie Review Channel</a></h4>
+				</div>
+				<div id="footerMenu" class="text-right">
+					<a href="../../SmartMovieReview">Home</a> |
+					<a href="../movielist/movies.html">Movies</a> |
+					<a href="../news.html">News</a> |
+					<a href="../contactus.html">Contact Us</a> |
+					<a href="../aboutus.html">About Us</a>
+				</div>
+				<div id="footerText">
+					<p class="text-justify">Smart Movie Review Channel is optimized for viewing, finding and writing movies and film. Site's Information is constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.</p>
+					<p class="text-center">Copyright 1999-2016 by University of Information Technology (UIT). All Rights Reserved.</p>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,3521 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movielist.dtd">
+<movies>
+	<movie>
+		<title>Batman Vs Superman: Dawn of Justice</title>
+		<year>2016</year>
+		<rating>
+			<imdb>7.2</imdb>
+			<rotten>28</rotten>
+		</rating>
+		<poster>movielist/poster/batman_v_superman_dawn_of_justice_2016_poster.jpg</poster>
+		<short>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs. </short>
+		<date>25 March 2016</date>
+		<casts>
+			<cast>Amy Adans</cast>
+			<cast>Gal Gadot</cast>
+			<cast>Ben Mffleck</cast>
+		</casts>
+		<directors>
+			<director>Zack Snyder</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>Atlas Entertainment</company>
+		</companies>
+		<length>150</length>
+		<web>http://www.facebook.com/batmanvsuperman</web>
+		<long_re>Eighteen months after the destructive battle in Metropolis, Superman has become a controversial figure. Billionaire Bruce Wayne, who has covertly operated in Gotham City as vigilante Batman for nearly two decades, blames Superman for the mass casualties that resulted from his fight with General Zod. Superman, in his public identity as Daily Planet journalist Clark Kent, sees Batman as dangerous and seeks to expose him. </long_re>
+		<trailer>movielist/trailers/batman_v_superman_dawn_of_justice_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Captain America: Civil War</title>
+		<year>2016</year>
+		<rating>
+			<imdb>8.2</imdb>
+			<rotten>94</rotten>
+		</rating>
+		<poster>movielist/poster/captain_america_civil_war_2016_poster.jpg</poster>
+		<short>Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man. </short>
+		<date>06 May 2016</date>
+		<casts>
+			<cast>Chris Evans</cast>
+			<cast>Robert Downery Jr.</cast>
+			<cast>Scarlett Johansson</cast>
+			<cast>Sebastian Stan</cast>
+		</casts>
+		<directors>
+			<director>Anthony russo</director>
+			<director>Joe Russo</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>147</length>
+		<web>http://marvel.com/captainamerica#/home</web>
+		<long_re>Marvel's  Captain America:Civil War finds Steve Rogers leading the newly formed team of Avengers in their continued efforts to safeguard humanity.But after another incident involving the Avengers results in collateral damage, political pressure mounts to install a system of accountability,headed by a governing body to oversee and direct the team. The new status quo fractures the Avengers, resulting in two camps-one led by Steve Rogers and his desire for the Avengers to remain free to defend humanity without government interference, and the other following Tony Stark's surprising decision to support government oversight and accountability. </long_re>
+		<trailer>movielist/trailers/captain_america_civil_war_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>X-Men: Apocalypse</title>
+		<year>2016</year>
+		<rating>
+			<imdb>7.4</imdb>
+			<rotten>72</rotten>
+		</rating>
+		<poster>movielist/poster/xmen_apocalypse_2016_poster.jpg</poster>
+		<short>With the emergence of the world's first mutant,Apocalypse,the X-Men must unite to defeat his extinction level plan. </short>
+		<date>27 May 2016</date>
+		<casts>
+			<cast>James McAvoy</cast>
+			<cast>Jennifer Lawrence</cast>
+			<cast>Michael Fassbender</cast>
+			<cast>Nicholas Hoult</cast>
+		</casts>
+		<directors>
+			<director>Bryan Singer</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>144</length>
+		<web>http://www.foxmovies.com/movies/x-men-apocalypse</web>
+		<long_re>Since the dawn of civilization, he was worshipped as God. Apocalypse, the first and most powerful mutant from Marvel's X-Men universe, amassed the powers of many other mutants, becoming the immortal and invinvible. Upon awakening after thousands of years, he is disillusioned with the world as he finds it and recurits a team of powerful mutants, including a dishearted Magneto, to cleanse mankind and create a new world order, over which he will reign. As the fate of the Earth hangs in the balance, Raven with the help of Professor X must lead a team of young X-Men to stop their greatest nemesis and save the mankind from complete destruction. </long_re>
+		<trailer>movielist/trailers/xmen_apocalypse_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Other Side of the Door</title>
+		<year>2016</year>
+		<rating>
+			<imdb>5.3</imdb>
+			<rotten>37</rotten>
+		</rating>
+		<poster>movielist/poster/the_other_side_of_the_door_2016_poster.jpg</poster>
+		<short>After her young son is killed in a tragic accident,a woman learns of a ritual which will bring him back to say goodbye, but when she disobeys a sacred warning,she upsets the balance between life and death. </short>
+		<date>04 March 2016</date>
+		<casts>
+			<cast>Jeremy Sisto</cast>
+			<cast>Logan Creran</cast>
+			<cast>Sarah Wayne Callies</cast>
+			<cast>Sofia Rosinsky</cast>
+		</casts>
+		<directors>
+			<director>Rohannes Roberts</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>96</length>
+		<web>http://www.foxmovies.com/movies/the-other-side-of-the-door/</web>
+		<long_re>A family lives an idyllic existence abroad until a tragic accident takes the life of their young son.The inconsolable mother learns of an ancient ritual that will bring him back to say a final goodbye.She travels to an ancient temple, where a door serves as a mysterious portal between two worlds.But when she disobeys a sacred warning to never open that door,she upsets the balance between life and death. </long_re>
+		<trailer>movielist/trailers/the_other_side_of_the_door_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>London Has Fallen</title>
+		<year>2016</year>
+		<rating>
+			<imdb>5.9</imdb>
+			<rotten>62</rotten>
+		</rating>
+		<poster>movielist/poster/london_has_fallen_2016_poster.jpg</poster>
+		<short>In London for the Prime Minister's funeral, Mike Banning discovers a plot to assassinate all the attending world leaders. </short>
+		<date>04 March 2016</date>
+		<casts>
+			<cast>Gerard Butter</cast>
+			<cast>Waleed Zuaiter</cast>
+			<cast>Aaron Eckhart</cast>
+			<cast>Morgan Freeman</cast>
+		</casts>
+		<directors>
+			<director>Babak Najafi</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Focus Features</company>
+			<company>Lionsgate Films</company>
+		</companies>
+		<length>99</length>
+		<web>http://www.londonhasfallen.com</web>
+		<long_re>President Benjamin Asher and his top Secret Service agent/best friend Mike Banning are jogging together near the White House in Washington (which is still recovering from the terrorist attack in the previous film). Mike returns home where it is revealed that he is currently expecting his first child with his wife Leah. He is hoping to take some time off to spend time with his family and to finish setting up the nursery. She clearly becomes irritated by the number of securit cameras in the room that he has installed. </long_re>
+		<trailer>movielist/trailers/london_has_fallen_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Jungle Book</title>
+		<year>2016</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>62</rotten>
+		</rating>
+		<poster>movielist/poster/jungle_book_2016_poster.jpg</poster>
+		<short>The jungle experiences a very dry season, so the animals come together by the Peace Rock to form a truce and drink water from there. Mowgli uses the shell of a fruit to grab water for himself. </short>
+		<date>15 April 2016</date>
+		<casts>
+			<cast>Ben Kihgsley</cast>
+			<cast>Idris Elba</cast>
+			<cast>Neel Sethi</cast>
+			<cast>Bill Murray</cast>
+			<cast>Sarah Finn</cast>
+		</casts>
+		<directors>
+			<director>Jon Favreau</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+			<company>Lionsgate Films</company>
+		</companies>
+		<length>120</length>
+		<web>http://movies.disney.com/the-jungle-book-2016</web>
+		<long_re>After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther, Bagheera, and free spirited bear, Baloo. </long_re>
+		<trailer>movielist/trailers/jungle_book_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Deadpool</title>
+		<year>2016</year>
+		<rating>
+			<imdb>8.2</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/deadpool_2016_poster.jpg</poster>
+		<short>A former Special Forces operative turned mercenary is subjectid to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool. </short>
+		<date>12 February 2016</date>
+		<casts>
+			<cast>Ed Skrein</cast>
+			<cast>Karan Soni</cast>
+			<cast>Morena Baccarin</cast>
+			<cast>Ryan Reynolds</cast>
+		</casts>
+		<directors>
+			<director>Tim Miller</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Action</genre>
+			<genre>Comedy</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>108</length>
+		<web>http://www.foxmovies.com/movies/deadpool</web>
+		<long_re>Based upon Marvel Comics' most unconventional anti-hero,DEADPOOL tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool.Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life. </long_re>
+		<trailer>movielist/trailers/deadpool_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>How To Be Single</title>
+		<year>2016</year>
+		<rating>
+			<imdb>6.1</imdb>
+			<rotten>81</rotten>
+		</rating>
+		<poster>movielist/poster/how_to_be_single_2016_poster.jpg</poster>
+		<short>A former Special Forces operative turned mercenary is subjectid to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool. </short>
+		<date>12 February 2016</date>
+		<casts>
+			<cast>Dakota Johnson</cast>
+			<cast>Damon Wayans Jr.</cast>
+			<cast>Leslie Mann</cast>
+			<cast>Rebel Wilson</cast>
+		</casts>
+		<directors>
+			<director>Christian Ditter</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Metro Goldwyn Mayer(MGM)</company>
+		</companies>
+		<length>95</length>
+		<web>http://howtobesinglemovie.com</web>
+		<long_re>The opening scenes introduces four individual women; Alice has been in a relationship with Josh  for four years since college, but she has now decided she wants to spend time alone and not be held down in a relationship as she moves to New York City to start her new job. Robin is a plump Australian who loves partying, drinking, doing drugs, and being single in which she takes advantage of it whenever she can, and this usually leads to her ending up in a stranger's apartment. Meg, Alice's older sister, is a doctor that has delivered multiple babies but never felt the need to settle down and have one herself. Lucy is overbearing and a terminal neurotic klutz who comes off too strong around men, which usually scares them away. </long_re>
+		<trailer>movielist/trailers/how_to_be_single_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Me Before You</title>
+		<year>2016</year>
+		<rating>
+			<imdb>7.7</imdb>
+			<rotten>11</rotten>
+		</rating>
+		<poster>movielist/poster/me_before_you_2016_poster.jpg</poster>
+		<short>A girl in a small town forms an unlikely bond with a recently-paralyzed man she's taking care of. </short>
+		<date>03 June 2016</date>
+		<casts>
+			<cast>Emilia Clarke</cast>
+			<cast>Pablo Raybould</cast>
+			<cast>Sam Claflin</cast>
+		</casts>
+		<directors>
+			<director>Thea Sharrack</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Metro Goldwyn Mayer(MGM)</company>
+			<company>New Line Cinema</company>
+		</companies>
+		<length>110</length>
+		<web>http://www.mebeforeyoumovie.com</web>
+		<long_re>The movie starts off with Will Traynor being blissfully happy with his beautiful fiancé. It's obvious that he's rich and high-society. It's raining, he leaves for work, and she tells him he can't take his motorcycle. He doesn't and starts walking to work while talking on his cell phone. He's distracted and gets hit by... a motorcycle. He gets paralyzed from the neck down. </long_re>
+		<trailer>movielist/trailers/me_before_you_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Revenant</title>
+		<year>2015</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>85</rotten>
+		</rating>
+		<poster>movielist/poster/the_revenant_2015_poster.jpg</poster>
+		<short>In the 1820s, a frontiersman, Hugh Glass, sets out on the path of vengeance against those who left him for dead after bear mauling. </short>
+		<date>08 January 2016</date>
+		<casts>
+			<cast>Tom Hardy</cast>
+			<cast>Leonardo DiCapiro</cast>
+			<cast>Domhnall Gleeson</cast>
+			<cast>Will Poulter</cast>
+		</casts>
+		<directors>
+			<director>Alejandro Gonzalez Inarritu</director>
+			<director>Michael</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
+			<genre>Western</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>156</length>
+		<web>http://www.foxmovies.com/movies/the-revenant</web>
+		<long_re>While exploring the uncharted wilderness in 1823, the legendary frontiersman Hugh Glass sustains injuries from a brutal bear attack. When his hunting team leaves him for dead. Glass must utilize his survival skills to find a way back home while avoiding natives on their own hunt. Grief-stricken and fuleded by vengeance, Glass treks through the wintry terrain to track down John Fitzgerald, the former confidant who betrayed and abandoned him. </long_re>
+		<trailer>movielist/trailers/the_revenant_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Gods of Egypt</title>
+		<year>2016</year>
+		<rating>
+			<imdb>5.6</imdb>
+			<rotten>12</rotten>
+		</rating>
+		<poster>movielist/poster/gods_of_egypt_2016_poster.jpg</poster>
+		<short>Mortal hero Bek teams with gos Horus in an alliance against Set, the merciless god of darkness, who has usurped Egypt's throne, plunging the once peaceful and prosperous empire into chaoes and confilt. </short>
+		<date>26 February 2016</date>
+		<casts>
+			<cast>Brenton Thwaites</cast>
+			<cast>Courtney Eaton</cast>
+			<cast>John Samaha</cast>
+			<cast>Nikolaj Coster-Waldau</cast>
+		</casts>
+		<directors>
+			<director>Alex Proyas</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Action</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>Lionsgate</company>
+		</companies>
+		<length>156</length>
+		<web>http://www.godsofegypt.movie/home</web>
+		<long_re>Set, the merciless god of darkness, has taken over the throne of Egypt and plunged the once peaceful and prosperous empire into chaos and conflict. Few dare to rebel against him. A young thief, whose love was taken captive by the god, seeks to dethrone and defeat Set with the aid of the powerful god Horus. </long_re>
+		<trailer>movielist/trailers/gods_of_egypt_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Iron Man 3</title>
+		<year>2013</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>35</rotten>
+		</rating>
+		<poster>movielist/poster/iron_man_3_2013_poster.jpg</poster>
+		<short>When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution. </short>
+		<date>3 May 2013</date>
+		<casts>
+			<cast>Don Cheadle</cast>
+			<cast>Guy Pearce</cast>
+			<cast>Gwyneth Paltrow</cast>
+			<cast>Robert Downey Jr.</cast>
+		</casts>
+		<directors>
+			<director>Shane Black</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Action</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Marvel Studios</company>
+			<company>Paramount Pictures</company>
+		</companies>
+		<length>195</length>
+		<web>http://ironmanmovie3.com</web>
+		<long_re>Marvel's Iron Man 3 pits brash-but-brilliant industrialist Tony Stark/Iron Man against an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemy's hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him. As he fights his way back, Stark discovers the answer to the question that has secretly haunted him: does the man make the suit or does the suit make the man? </long_re>
+		<trailer>movielist/trailers/iron_man_3_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Zootopia</title>
+		<year>2016</year>
+		<rating>
+			<imdb>8.2</imdb>
+			<rotten>98</rotten>
+		</rating>
+		<poster>movielist/poster/zootopia_2016_poster.jpg</poster>
+		<short>In the city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy. </short>
+		<date>04 March 2016</date>
+		<casts>
+			<cast>Ginner Goodwin</cast>
+			<cast>Idris Elba</cast>
+			<cast>Jason Batenan</cast>
+			<cast>Jenny Slate</cast>
+		</casts>
+		<directors>
+			<director>Bryon Howard</director>
+			<director>Jared Bush</director>
+			<director>Rich Moore</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Crime</genre>
+			<genre>Fantasy</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Animation Studios</company>
+		</companies>
+		<length>108</length>
+		<web>http://movies.disney.com/zootopia</web>
+		<long_re>From the largest elephant to smallest shew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps becomes the first rabbit to join the police force, she quickly learn how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mystery case. Unfortunately, that means working with Nick Wilde, a wildly fox who makes her job even harder. </long_re>
+		<trailer>movielist/trailers/zootopia_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Ice Age: Continental Drift</title>
+		<year>2012</year>
+		<rating>
+			<imdb>6.6</imdb>
+			<rotten>37</rotten>
+		</rating>
+		<poster>movielist/poster/ice_age_continental_drift_2012_poster.jpg</poster>
+		<short>Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an icebug as a ship, they encounter sea creatures and battle pirates as they explore a new world. </short>
+		<date>13 July 2012</date>
+		<casts>
+			<cast>Aziz Ansari</cast>
+			<cast>Denis Leary</cast>
+			<cast>John Leguizamo</cast>
+			<cast>Ray Romano</cast>
+		</casts>
+		<directors>
+			<director>Mike Thurmeler</director>
+			<director>Steve Martino</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>88</length>
+		<web>http://www.iceagemovie.com</web>
+		<long_re>When Scrat accidentally provokes a continental cataclysm with a storm, Manny is separated from Ellie and Peaches on an icebug with Diego, Sid and Grany but he promises that he will find a way to return home. While crossing the ocean, they are captured by the cruel pirate Captain Gutt and his crew. However they escape and Manny plots a plan to steal Captain Gutt's ship and return to his homeland in a very dangerous voyage through the sea. But the cruel pirate seek revenge against Manny and his family and friends. </long_re>
+		<trailer>movielist/trailers/ice_age_continental_drift_2012_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Conjuring 2</title>
+		<year>2016</year>
+		<rating>
+			<imdb>7.9</imdb>
+			<rotten>85</rotten>
+		</rating>
+		<poster>movielist/poster/the_conjuring_2_2016_poster.jpg</poster>
+		<short>Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by a malicious spirit. </short>
+		<date>10 June 2016</date>
+		<casts>
+			<cast>Frances O'Connor</cast>
+			<cast>Madison Wolfe</cast>
+			<cast>Patrick Wilson</cast>
+			<cast>Vera Farmiga</cast>
+		</casts>
+		<directors>
+			<director>James Wan</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Mystery</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>134</length>
+		<web>http://www.theconjuring2.com</web>
+		<long_re>In 1977,paranormal investigators Ed and Lorraine Warren travel to London,England, where single mother Peggy Hodgson believes that something evil is in her home.When Peggy's youngest daughter starts showing signs of demonic possessionm,Ed and Lorraine attempt to help the besieged girl,only to find themselves targeted by the malicious spirits. </long_re>
+		<trailer>movielist/trailers/the_conjuring_2_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Furious 7</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>83</rotten>
+		</rating>
+		<poster>movielist/poster/furious_7_2015_poster.jpg</poster>
+		<short>Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by a malicious spirit. </short>
+		<date>3 April 2015</date>
+		<casts>
+			<cast>Jason Statham</cast>
+			<cast>Michelle Rodriguez</cast>
+			<cast>Paul Walker</cast>
+			<cast>Vin Diesel</cast>
+		</casts>
+		<directors>
+			<director>James Wan</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures</company>
+			<company>MRC</company>
+		</companies>
+		<length>140</length>
+		<web>http://www.furious7.com</web>
+		<long_re>Dominic and his crew thought they'd left the criminal mercenary life behind. They'd defeated international terrorist Owen Shaw and went their separate ways. But now, Shaw's brother, Deckard Shaw, is out killing the crew one by one for revenge. Worse, a Somalian terrorist called Jakarde and a shady government official called Mr. Nobody are both competing to steal a computer terrorism program called God's Eye, that can turn any technological device into a weapon. Torretto must reconvene with his team to stop Shaw and retrieve the God's Eye program while caught in a power struggle between the terrorist and the United States government. </long_re>
+		<trailer>movielist/trailers/furious_7_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Harry Potter and the Deathly Hallows: Part 2</title>
+		<year>2011</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>89</rotten>
+		</rating>
+		<poster>movielist/poster/harry_potter_and_the_deathly_hallows_part_2_2011_poster.jpg</poster>
+		<short>Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts. </short>
+		<date>15 July 2011</date>
+		<casts>
+			<cast>Alan Rickman</cast>
+			<cast>Daniel Radcliffe</cast>
+			<cast>Michael Gambon</cast>
+			<cast>Ralph Fiennes</cast>
+		</casts>
+		<directors>
+			<director>David Yates</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>Heyday Films</company>
+			<company>Warner Bros.</company>
+		</companies>
+		<length>130</length>
+		<web>http://www.harrypotter.com</web>
+		<long_re>Harry, Ron, and Hermione continue their quest of finding and destroying the Dark Lord's three remaining Horcruxes, the magical items responsible for his immortality. But as the mystical Deathly Hallows are uncovered, and Voldemort finds out about their mission, the biggest battle begins and life as they know it will never be the same again. </long_re>
+		<trailer>movielist/trailers/harry_potter_and_the_deathly_hallows_part_2_2011_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Just the Way You Are</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.1</imdb>
+			<rotten>52</rotten>
+		</rating>
+		<poster>movielist/poster/just_the_way_you_are_2015_poster.jpg</poster>
+		<short>Drake gets into a betting game with his best friend, which involves courting the unsuspecting Sophia. When Sophia finally falls for him, Drake must tell her that everything was just a game. A bet.  </short>
+		<date>17 June 2015</date>
+		<casts>
+			<cast>Enrique Gil</cast>
+			<cast>Liza Soberano</cast>
+			<cast>Sue Anna Ramirez</cast>
+			<cast>Yves Flores</cast>
+		</casts>
+		<directors>
+			<director>Theodore Boborol</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>ABS-CBN Film Productions</company>
+			<company>Star Cinema Productions</company>
+		</companies>
+		<length>107</length>
+		<web>http://starcinema.abs-cbn.com/movies/just-the-way-you-are/</web>
+		<long_re>When Drake lost in a bet, his best friend wanted him to court a girl in a month and ask her to be his girlfriend. After she said, Yes, he will tell her that he doesn't love her and all that happened between them was a game. But what if Sophia, the girl his best friend chose, is clever than they think she is? What will happen if she knows something about their pretty little secret? </long_re>
+		<trailer>movielist/trailers/just_the_way_you_are_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Pyramid</title>
+		<year>2014</year>
+		<rating>
+			<imdb>4.6</imdb>
+			<rotten>87</rotten>
+		</rating>
+		<poster>movielist/poster/the_pyramid_2014_poster.jpg</poster>
+		<short>An archaelogical team attempts to unlock the secrets of a lost pyramid only to find themselves hunted by an insidious creature. </short>
+		<date>05 December 2014</date>
+		<casts>
+			<cast>Ashley Hinshaw</cast>
+			<cast>Chris Nicola</cast>
+			<cast>Denis O'Hare</cast>
+			<cast>James Buckley</cast>
+		</casts>
+		<directors>
+			<director>Gregory Levasseur</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>20th Fox Century</company>
+		</companies>
+		<length>89</length>
+		<web>http://www.foxmovies.com/movies/the-pyramid</web>
+		<long_re>A team of U.S. archaelogist unearths an ancient pyramid buried deep beneath the Egyptian desert. As they search the pyramid's death, they becomes hopelessly lost in the dark and endless catacombs. Searching for a way out, they becomes desperate to seek daylight again. They come to realize they aren't being just trapped, they are being hunted. </long_re>
+		<trailer>movielist/trailers/the_pyramid_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Like Stars On Earth</title>
+		<year>2007</year>
+		<rating>
+			<imdb>8.5</imdb>
+			<rotten>96</rotten>
+		</rating>
+		<poster>movielist/poster/like_stars_on_earth_2007_poster.jpg</poster>
+		<short>An eight-year-old boy is thought to be lazy and a trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school. </short>
+		<date>21 December 2007</date>
+		<casts>
+			<cast>Aamir Khan</cast>
+			<cast>Darsheel Safary</cast>
+			<cast>Tanay Chheda</cast>
+			<cast>Tisca Chopra</cast>
+		</casts>
+		<directors>
+			<director>Aamir Khan</director>
+			<director>Amole Gupte</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Aamir Khan Productions</company>
+		</companies>
+		<length>165</length>
+		<web>http://www.taarezameenpar.com/</web>
+		<long_re>Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate; colours, fish, dogs and kites are just not important in the world of adults, who are much more interested in things like homework, marks and neatness. And Ishaan just cannot seem to get anything right in class. When he gets into far more trouble than his parents can handle, he is packed off to a boarding school to 'be disciplined'. Things are no different at his new school, and Ishaan has to contend with the added trauma of separation from his family. One day a new art teacher bursts onto the scene, Ram Shankar Nikumbh, who infects the students with joy and optimism. He breaks all the rules of 'how things are done' by asking them to think, dream and imagine, and all the children respond with enthusiasm, all except Ishaan. Nikumbh soon realizes that Ishaan is very unhappy, and he sets out to discover why. With time, patience and care, he ultimately helps Ishaan find himself. </long_re>
+		<trailer>movielist/trailers/like_stars_on_earth_2007_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>3 Idiots</title>
+		<year>2009</year>
+		<rating>
+			<imdb>8.4</imdb>
+			<rotten>92</rotten>
+		</rating>
+		<poster>movielist/poster/3idiots_2009_poster.jpg</poster>
+		<short>Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots. </short>
+		<date>25 December 2009</date>
+		<casts>
+			<cast>Aamir Khan</cast>
+			<cast>Kareena Kapoor</cast>
+			<cast>Madhavan</cast>
+			<cast>Sharman Joshi</cast>
+		</casts>
+		<directors>
+			<director>Rajkumar Hirani</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+		</genres>
+		<companies>
+			<company>Vinod Chopra Productions</company>
+		</companies>
+		<length>170</length>
+		<web>http://www.bollywoodhungama.com/moviemicro/cast/id/65530</web>
+		<long_re>Farhan Qureshi and Raju Rastogi want to re-unite with their fellow collegian, Rancho, after faking a stroke aboard an Air India plane, and excusing himself from his wife - trouser less - respectively. Enroute, they encounter another student, Chatur Ramalingam, now a successful businessman, who reminds them of a bet they had undertaken 10 years ago. The trio, while recollecting hilarious antics, including their run-ins with the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, race to locate Rancho, at his last known address - little knowing the secret that was kept from them all this time. </long_re>
+		<trailer>movielist/trailers/3idiots_2009_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Avatar</title>
+		<year>2009</year>
+		<rating>
+			<imdb>7.9</imdb>
+			<rotten>82</rotten>
+		</rating>
+		<poster>movielist/poster/avatar_2009_poster.jpg</poster>
+		<short>A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. </short>
+		<date>18 December 2009</date>
+		<casts>
+			<cast>Sam Worthington</cast>
+			<cast>Sigourney Weaver</cast>
+			<cast>Stephen Lang</cast>
+			<cast>Zoe Saldana</cast>
+		</casts>
+		<directors>
+			<director>James Cameron</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Fantasy</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>161</length>
+		<web>http://www.avatarmovie.com</web>
+		<long_re>When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid Na'vi in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers intel for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an avatar identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora. </long_re>
+		<trailer>movielist/trailers/avatar_2009_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Everyday I Love You</title>
+		<year>2016</year>
+		<rating>
+			<imdb>7.4</imdb>
+			<rotten>66</rotten>
+		</rating>
+		<poster>movielist/poster/everyday_i_love_you_2015_poster.jpg</poster>
+		<short>Two people bound together in the same journey of life and fall for each other in an unexpected way. </short>
+		<date>10 June 2016</date>
+		<casts>
+			<cast>Enrique Gil</cast>
+			<cast>Gerald Anderson</cast>
+			<cast>Liza Soberano</cast>
+		</casts>
+		<directors>
+			<director>Mae Czarina Cruz</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>ABS-CBN Film Productions</company>
+		</companies>
+		<length>134</length>
+		<web>http://starcinema.abs-cbn.com/movies/everyday-i-love-you</web>
+		<long_re>A young woman, whose fiance is in a coma, falls in love with an achievement-oriented young man, leaving her torn between the man of her dreams, and the man who makes her dreams come true. </long_re>
+		<trailer>movielist/trailers/everyday_i_love_you_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>How to Train Your Dragon 2</title>
+		<year>2014</year>
+		<rating>
+			<imdb>7.9</imdb>
+			<rotten>90</rotten>
+		</rating>
+		<poster>movielist/poster/how_to_train_your_dragon2_2014_poster.jpg</poster>
+		<short>When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace. </short>
+		<date>13 June 2014</date>
+		<casts>
+			<cast>Cate Blanchett</cast>
+			<cast>Craig Ferguson</cast>
+			<cast>Gerard Butler</cast>
+			<cast>Jay Baruchel</cast>
+		</casts>
+		<directors>
+			<director>Dean DeBlois</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>DreamWorks Animation</company>
+			<company>Duncan Studio</company>
+		</companies>
+		<length>102</length>
+		<web>http://www.howtotrainyourdragon.com/</web>
+		<long_re>It's been five years since Hiccup and Toothless successfully united dragons and vikings on the island of Berk. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace. Now, Hiccup and Toothless must unite to stand up for what they believe while recognizing that only together do they have the power to change the future of both men and dragons. </long_re>
+		<trailer>movielist/trailers/how_to_train_your_dragon2_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Hunger Games: Mocking Jay Part 2</title>
+		<year>2015</year>
+		<rating>
+			<imdb>6.6</imdb>
+			<rotten>66</rotten>
+		</rating>
+		<poster>movielist/poster/the_hunger_games_mocking_jay_part_2_2015_poster.jpg</poster>
+		<short>As the war of Panem escalates to the destruction of other districts, Katniss Everdeen, the reluctant leader of the rebellion, must bring together an army against President Snow, while all she holds dear hangs in the balance. </short>
+		<date>20 November 2015</date>
+		<casts>
+			<cast>Jennifer Lawrence</cast>
+			<cast>Josh Hutcherson</cast>
+			<cast>Liam Hemsworth</cast>
+			<cast>Woody Harrelson</cast>
+		</casts>
+		<directors>
+			<director>Francis Lawrence</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Lionsgate</company>
+		</companies>
+		<length>137</length>
+		<web>http://www.thehungergames.movie</web>
+		<long_re>After young Katniss Everdeen agrees to be the symbol of rebellion, the Mockingjay, she tries to return Peeta to his normal state, tries to get to the Capitol, and tries to deal with the battles coming her way...but all for her main goal; assassinating President Snow and returning peace to the Districts of Panem. As her squad starts to get smaller and smaller, will she make it to the Capitol? Will she get revenge on Snow? Or will her target change? Will she be with her Star-Crossed Lover, Peeta? Or her long time friend, Gale? Deaths, Bombs, Bows and Arrows, A Love Triangle, Hope. What will happen? </long_re>
+		<trailer>movielist/trailers/the_hunger_games_mocking_jay_part_2_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Star Wars: The Force Awakens</title>
+		<year>2015</year>
+		<rating>
+			<imdb>8.2</imdb>
+			<rotten>89</rotten>
+		</rating>
+		<poster>movielist/poster/star_wars_the_force_awakens_2015_poster.jpg</poster>
+		<short>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance. </short>
+		<date>18 December 2015</date>
+		<casts>
+			<cast>Adam Driver</cast>
+			<cast>Carrie Fisher</cast>
+			<cast>Harrison Ford</cast>
+			<cast>Mark Hamill</cast>
+		</casts>
+		<directors>
+			<director>J.J. Abrams</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Fantasy</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Bad Robot</company>
+			<company>Walt Disney Studio</company>
+			<company>Motion Pictures</company>
+			<company>Lucasfilm</company>
+		</companies>
+		<length>136</length>
+		<web>http://www.starwars.com/the-force-awakens</web>
+		<long_re>30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order. </long_re>
+		<trailer>movielist/trailers/star_wars_the_force_awakens_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>She's Dating the Gangster</title>
+		<year>2014</year>
+		<rating>
+			<imdb>7.5</imdb>
+			<rotten>72</rotten>
+		</rating>
+		<poster>movielist/poster/shes_dating_the_gangster_2014_poster.jpg</poster>
+		<short>Athena Dizon plays a trick on campus heartthrob and bad boy, gangster, Kenji de los Reyes. Setting up an arrangement to pretend as lovers-to make his ex jealous-they found themselves falling to each other yet falling apart. </short>
+		<date>25 July 2014</date>
+		<casts>
+			<cast>Daniel Padilla</cast>
+			<cast>Dawn Zulueta</cast>
+			<cast>Kathryn Bernardo</cast>
+			<cast>Richard Gomez</cast>
+		</casts>
+		<directors>
+			<director>Cathy Garcia-Molina</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>ABS-CBN Productions</company>
+			<company>Summit Media</company>
+			<company>Star Cinema Productions</company>
+		</companies>
+		<length>105</length>
+		<web>http://starcinema.abs-cbn.com/movies/shes-dating-the-gangster</web>
+		<long_re>3It all started when 17-year-old Athena Dizon unwittingly plays a trick on resident heartthrob and bad boy, Kenji de los Reyes. All of a sudden, she finds herself pretending-unwillingly at that-to be his girlfriend to make his ex jealous. Now, not only does she have to deal with dirty looks from the girls in school who want Kenji for themselves, but her supposed boyfriend is getting on her nerves. He's hotheaded, never seems to agree with her on anything-and everything about him screams gangster. </long_re>
+		<trailer>movielist/trailers/shes_dating_the_gangster_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Boy</title>
+		<year>2016</year>
+		<rating>
+			<imdb>6.0</imdb>
+			<rotten>39</rotten>
+		</rating>
+		<poster>movielist/poster/the_boy_2016_poster.jpg</poster>
+		<short>An American nanny is shocked that her new English family's boy is actually a life-sized doll. After she violates a list of strict rules, disturbing events make her believe that the doll is really alive. </short>
+		<date>22 January 2016</date>
+		<casts>
+			<cast>James Russell</cast>
+			<cast>Jim Norton</cast>
+			<cast>Lauren Cohan</cast>
+			<cast>Rupert Evans</cast>
+		</casts>
+		<directors>
+			<director>William Brent Bell</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>Lakeshore Entertainment</company>
+			<company>Huayi Brothers Media</company>
+		</companies>
+		<length>97</length>
+		<web>http://theboymovie.tumblr.com/</web>
+		<long_re>Greta is a young American woman who takes a job as a nanny in a remote English village, only to discover that the family's 8-year-old is a life-sized doll that the parents care for just like a real boy, as a way to cope with the death of their actual son 20 years prior. After violating a list of strict rules, a series of disturbing and inexplicable events bring Greta's worst nightmare to life, leading her to believe that the doll is actually alive. </long_re>
+		<trailer>movielist/trailers/the_boy_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Paddington</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.2</imdb>
+			<rotten>80</rotten>
+		</rating>
+		<poster>movielist/poster/paddington_2014_poster.jpg</poster>
+		<short>A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven. </short>
+		<date>16 January 2015</date>
+		<casts>
+			<cast>Geoffrey Palmer</cast>
+			<cast>Lottie Steer</cast>
+			<cast>Madeleine Worrall</cast>
+			<cast>Tim Downie</cast>
+		</casts>
+		<directors>
+			<director>Paul King</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>StudioCanal</company>
+			<company>Anton Capital Entertainment (ACE)</company>
+		</companies>
+		<length>95</length>
+		<web>http://theboymovie.tumblr.com/</web>
+		<long_re>A young Peruvian bear with a passion for all things British travels to London in search of a home. Finding himself lost and alone at Paddington Station, he begins to realize that city life is not all he had imagined - until he meets the kind Brown family, who read the label around his neck ('Please look after this bear. Thank you.') and offer him a temporary haven. It looks as though his luck has changed until this rarest of bears catches the eye of a museum taxidermist. </long_re>
+		<trailer>movielist/trailers/paddington_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Green Room</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.2</imdb>
+			<rotten>79</rotten>
+		</rating>
+		<poster>movielist/poster/green_room_2015_poster.jpg</poster>
+		<short>A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar. </short>
+		<date>29 April 2016</date>
+		<casts>
+			<cast>Alia Shawkat</cast>
+			<cast>Anton Yelchin</cast>
+			<cast>Callum Turner</cast>
+			<cast>Joe Cole</cast>
+		</casts>
+		<directors>
+			<director>Jeremy Saulnier</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Broad Green Pictures</company>
+			<company>Film Science</company>
+		</companies>
+		<length>95</length>
+		<web>http://www.greenroom-movie.com</web>
+		<long_re>A band straying into a secluded part of the Pacific Northwest stumbles onto a horrific act of violence. Because they are the only witnesses, they become the targets of a terrifying gang of skinheads who want to make sure all the evidence is eliminated. </long_re>
+		<trailer>movielist/trailers/green_room_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>By the Gun</title>
+		<year>2014</year>
+		<rating>
+			<imdb>4.8</imdb>
+			<rotten>40</rotten>
+		</rating>
+		<poster>movielist/poster/by_the_gun_2014_poster.jpg</poster>
+		<short>Nick, a young Boston Italian, trying to find purpose in the ideology of the mafia and finding his world turned upside down. </short>
+		<date>5 December 2014</date>
+		<casts>
+			<cast>Geoffrey Palmer</cast>
+			<cast>Lottie Steer</cast>
+			<cast>Madeleine Worrall</cast>
+			<cast>Tim Downie</cast>
+		</casts>
+		<directors>
+			<director>James Mottern</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Artina Films</company>
+			<company>Bridge Finance Company</company>
+			<company>Millennium Entertainment</company>
+		</companies>
+		<length>110</length>
+		<web>http://www.bythegunmovie.com</web>
+		<long_re>Nick Tortano is a smooth-talking, ambitious criminal from the streets of Boston. After years spent working for and idolizing the Italian gangsters he finally proves himself to the boss and becomes a made man. However, once inside, Nick conflicts with a moneymaker for the Mafia and begins to drive a wedge between him and Boss. </long_re>
+		<trailer>movielist/trailers/by_the_gun_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Life of Crime</title>
+		<year>2013</year>
+		<rating>
+			<imdb>5.8</imdb>
+			<rotten>65</rotten>
+		</rating>
+		<poster>movielist/poster/life_of_crime_2014_poster.jpg</poster>
+		<short>Two common criminals get more than they bargained for after kidnapping the wife of a corrupt real-estate developer who shows no interest in paying the $1 million dollar ransom for her safe return. </short>
+		<date>15 September 2013</date>
+		<casts>
+			<cast>Isla Fisher</cast>
+			<cast>Jennifer Aniston</cast>
+			<cast>Will Forte</cast>
+			<cast>Yasiin Bey</cast>
+		</casts>
+		<directors>
+			<director>Daniel Schechter</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Crime</genre>
+		</genres>
+		<companies>
+			<company>Abbolita Productions</company>
+			<company>Gotham Group</company>
+			<company>Lionsgate</company>
+			<company>Roadside Attractions</company>
+		</companies>
+		<length>98</length>
+		<web>http://www.imdb.com/title/tt1663207</web>
+		<long_re>Stoic socialite Mickey Dawson becomes the target of an ill-planned kidnapping plot by a pair of fumbling ex-cons, Ordell Robbie and Louis Gara, looking for a get-rich-quick scheme. However, things quickly become complicated for the duo when they discover her wealthy husband, Frank, refuses to pay the ransom, as he is on the cusp of filing for divorce to make way for his younger mistress, Melanie Ralston. The two kidnappers have to figure out how to quickly turn the tables on their predicament before their time runs out.</long_re>
+		<trailer>movielist/trailers/life_of_crime_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Good Dinosaur</title>
+		<year>2015</year>
+		<rating>
+			<imdb>6.8</imdb>
+			<rotten>66</rotten>
+		</rating>
+		<poster>movielist/poster/the_good_dinosaur_2014_poster.jpg</poster>
+		<short>In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend. </short>
+		<date>25 November 2015</date>
+		<casts>
+			<cast>Frances McDormand</cast>
+			<cast>Jeffrey Wright</cast>
+			<cast>Maleah Nipay-Padilla</cast>
+			<cast>Ryan Teeple Ryan Teeple</cast>
+		</casts>
+		<directors>
+			<director>Peter Sohn</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Fantasy</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Pixar Animation Studios</company>
+			<company>Walt Disney Pictures</company>
+		</companies>
+		<length>93</length>
+		<web>http://movies.disney.com/the-good-dinosaur</web>
+		<long_re>The Good Dinosaur asks the question: What if the asteroid that forever changed life on Earth missed the planet completely and giant dinosaurs never became extinct? In this epic journey into the world of dinosaurs, an Apatosaurus named Arlo makes an unlikely human friend. While traveling through a harsh and mysterious landscape, Arlo learns the power of confronting his fears and discovers what he is truly capable of. </long_re>
+		<trailer>movielist/trailers/the_good_dinosaur_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Angry Birds</title>
+		<year>2016</year>
+		<rating>
+			<imdb>6.7</imdb>
+			<rotten>43</rotten>
+		</rating>
+		<poster>movielist/poster/angry_birds_2016_poster.jpg</poster>
+		<short>Find out why the birds are so angry. When an island populated by happy, flightless birds is visited by mysterious green piggies, it's up to three unlikely outcasts - Red, Chuck and Bomb - to figure out what the pigs are up to. </short>
+		<date>20 May 2016</date>
+		<casts>
+			<cast>Peter Dinklage</cast>
+			<cast>Tituss Burgess</cast>
+			<cast>Jason Sudeikis</cast>
+			<cast>Keegan-Michael Key</cast>
+		</casts>
+		<directors>
+			<director>Clay Kaytis</director>
+			<director>Fergal Reilly</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Action</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Sony Pictures</company>
+		</companies>
+		<length>95</length>
+		<web>http://www.angrybirds-movie.com/en/</web>
+		<long_re>In the 3D animated comedy, The Angry Birds Movie, we'll finally find out why the birds are so angry. The movie takes us to an island populated entirely by happy, flightless birds - or almost entirely. In this paradise, Red, a bird with a temper problem, speedy Chuck, and the volatile Bomb have always been outsiders. But when the island is visited by mysterious green piggies, it's up to these unlikely outcasts to figure out what the pigs are up to. </long_re>
+		<trailer>movielist/trailers/angry_birds_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Huntsman: Winter's War</title>
+		<year>2016</year>
+		<rating>
+			<imdb>6.2</imdb>
+			<rotten>17</rotten>
+		</rating>
+		<poster>movielist/poster/the_huntsman_winter_war_poster.jpg</poster>
+		<short>As a war between rival queen sisters Ravenna and Freya escalates, Eric and fellow warrior Sara, members of the Huntsmen army raised to protect Freya, try to conceal their forbidden love as they combat Ravenna's wicked intentions. </short>
+		<date>22 April 2016</date>
+		<casts>
+			<cast>Chris Hemsworth</cast>
+			<cast>Charlize Theron</cast>
+			<cast>Jessica Chastain</cast>
+			<cast>Emily Blunt</cast>
+		</casts>
+		<directors>
+			<director>Cedric Nicolas-Troyan</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures</company>
+		</companies>
+		<length>114</length>
+		<web>https://www.uphe.com/movies/the-huntsman-winters-war</web>
+		<long_re>The evil Ravenna finds that he sister Freya is pregnant and in love with a noble. Freya gives birth to a baby girl but her beloved lover murders the baby and her rage unleashes ice powers and she kills him. Freya heads to North and builds a palace and an army that captures children from the villages to be raised as soldiers without love. Years later, their children Eric and Sara are grown-up and in love with each other. They plan to flee from the castle, but Freya finds and builds an ice wall between them. Eric sees Sara being murdered stabbed on her back by their friend Tull and he is dumped in a frozen river but he survives. Eric, a.k.a. The huntsman grieves the death of his beloved Sara on a daily basis. One day, Snow White is ill and her husband seeks out Eric to tell that the Magic Mirror was taken while carried to a place called Sanctuary. Eric teams-up with two dwarfs to find the mirror, but they are attacked by Freya army and saved by Sara that is alive. She tells that she saw... </long_re>
+		<trailer>movielist/trailers/the_huntsman_winter_war_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Pearl Harbor</title>
+		<year>2001</year>
+		<rating>
+			<imdb>6.1</imdb>
+			<rotten>25</rotten>
+		</rating>
+		<poster>movielist/poster/pearl_harbor_2001_poster.jpg</poster>
+		<short>Pearl Harbor follows the story of two best friends, Rafe and Danny, and their love lives as they go off to join the war. </short>
+		<date>25 May 2001</date>
+		<casts>
+			<cast>Kate Beckinsale</cast>
+			<cast>Ben Affleck</cast>
+			<cast>Michael Shannon</cast>
+			<cast>Jennifer Garner</cast>
+			<cast>Josh Hartnett</cast>
+			<cast>William Lee Scott</cast>
+		</casts>
+		<directors>
+			<director>Randall Wallace</director>
+			<director>Michael Bay</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Drama</genre>
+			<genre>History</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Touchstone</company>
+		</companies>
+		<length>183</length>
+		<web>http://studio.go.com/movies/pearlharbor/flash/index.html</web>
+		<long_re>Pearl Harbor is a classic tale of romance set during a war that complicates everything. It all starts when childhood friends Rafe and Danny become Army Air Corps pilots and meet Evelyn, a Navy nurse. Rafe falls head over heels and next thing you know Evelyn and Rafe are hooking up. Then Rafe volunteers to go fight in Britain and Evelyn and Danny get transferred to Pearl Harbor. While Rafe is off fighting everything gets completely whack and next thing you know everybody is in the middle of an air raid we now know as "Pearl Harbor." </long_re>
+		<trailer>movielist/trailers/pearl_harbor_2001_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Frankenweenie</title>
+		<year>2012</year>
+		<rating>
+			<imdb>6.9</imdb>
+			<rotten>87</rotten>
+		</rating>
+		<poster>movielist/poster/frankenweenie_2012_poster.jpg</poster>
+		<short>Young Victor conducts a science experiment to bring his beloved dog Sparky back to life, only to face unintended, sometimes monstrous, consequences. </short>
+		<date>05 October 2012</date>
+		<casts>
+			<cast>Winona Ryder</cast>
+			<cast>Catherine O'Hara</cast>
+			<cast>Martin Short</cast>
+			<cast>Martin Landau</cast>
+			<cast>Christopher Lee</cast>
+			<cast>Atticus Shaffer</cast>
+		</casts>
+		<directors>
+			<director>Tim Burton</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Horror</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+		</companies>
+		<length>87</length>
+		<web>http://disney.go.com/frankenweenie</web>
+		<long_re>When young Victor's pet dog Sparky (who stars in Victor's home-made monster movies) is hit by a car, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked "monster" wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them (and his parents) that despite his appearance, Sparky's still the good loyal friend he's always been. </long_re>
+		<trailer>movielist/trailers/frankenweenie_2012_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Boxtrolls</title>
+		<year>2014</year>
+		<rating>
+			<imdb>7.0</imdb>
+			<rotten>75</rotten>
+		</rating>
+		<poster>movielist/poster/the_boxtrolls_2014_poster.jpg</poster>
+		<short>A young orphaned boy raised by underground cave-dwelling trash collectors tries to save his friends from an evil exterminator. Based on the children's novel 'Here Be Monsters' by Alan Snow. </short>
+		<date>26 September 2014</date>
+		<casts>
+			<cast>Ben Kingsley</cast>
+			<cast>Jared Harris</cast>
+			<cast>Nick Frost</cast>
+			<cast>Richard Ayoade</cast>
+			<cast>Simon Pegg</cast>
+			<cast>Elle Fanning</cast>
+			<cast>Toni Collette</cast>
+		</casts>
+		<directors>
+			<director>Graham Annable</director>
+			<director>Anthony Stacchi</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Focus Features</company>
+		</companies>
+		<length>97</length>
+		<web>http://www.theboxtrolls.com/</web>
+		<long_re>THE BOXTROLLS are a community of quirky, mischievous creatures who have lovingly raised an orphaned human boy named Eggs in the amazing cavernous home they've built beneath the streets of a city called Cheesebridge. The story is about a young orphaned boy raised by underground cave-dwelling trash collectors who tries to save his friends from an evil exterminator, the town's villain, Archibald Snatcher. When Snatcher comes up with a plot to get rid of the Boxtrolls. Eggs decides to venture above ground and "into the light," where he meets and teams up with fabulously feisty Winnie. Together, they devise a daring plan to save The BoxTrolls family. The film is based upon the children's novel 'Here Be Monsters' by Alan Snow. </long_re>
+		<trailer>movielist/trailers/the_boxtrolls_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Wolverine</title>
+		<year>2013</year>
+		<rating>
+			<imdb>6.7</imdb>
+			<rotten>69</rotten>
+		</rating>
+		<poster>movielist/poster/the_wolverine_2013_poster.jpg</poster>
+		<short>When Wolverine is summoned to Japan by an old acquaintance, he is embroiled in a conflict that forces him to confront his own demons. </short>
+		<date>26 July 2013</date>
+		<casts>
+			<cast>Hugh Jackman</cast>
+			<cast>Will Yun Lee</cast>
+			<cast>Tao Okamoto</cast>
+			<cast>Rila Fukushima</cast>
+			<cast>Famke Janssen</cast>
+			<cast>Ian McKellen</cast>
+		</casts>
+		<directors>
+			<director>James Mangold</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Fantasy</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>126</length>
+		<web>http://www.thewolverinemovie.com/us/</web>
+		<long_re>In modern day Japan, Wolverine is out of his depth in an unknown world as he faces his ultimate nemesis in a life-or-death battle that will leave him forever changed. Vulnerable for the first time and pushed to his physical and emotional limits, he confronts not only lethal samurai steel but also his inner struggle against his own immortality, emerging more powerful than we have ever seen him before.  </long_re>
+		<trailer>movielist/trailers/the_wolverine_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Kung Fu Panda 2</title>
+		<year>2011</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>81</rotten>
+		</rating>
+		<poster>movielist/poster/kung_fu_panda_2_2011_poster.jpg</poster>
+		<short>Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past. </short>
+		<date>26 May 2011</date>
+		<casts>
+			<cast>Jack Black</cast>
+			<cast>Angelina Jolie</cast>
+			<cast>Jackie Chan</cast>
+			<cast>Dustin Hoffman</cast>
+			<cast>Seth Rogen</cast>
+			<cast>Lucy Liu</cast>
+		</casts>
+		<directors>
+			<director>Jennifer Yuh</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Drama</genre>
+		</genres>
+		<companies>
+			<company>Paramount Studios</company>
+			<company>Dreamworks</company>
+		</companies>
+		<length>91</length>
+		<web>http://www.kungfupanda.com/</web>
+		<long_re>In the Valley of Peace, Po Ping is revelling in his fulfilled dreams as he serves as the fabled Dragon Warrior protecting his home with his heroes now his closest friends. However, Po and company learn that the murderous Lord Shen of Gongman City is threatening the land with a fearsome new weapon that could mean the end of kung fu. They attempt to stop him, but the panda is burdened with crippling memory flashbacks linked to this villain. Now with China in the balance, Po must learn about his past and find true inner peace against all opposition. </long_re>
+		<trailer>movielist/trailers/kung_fu_panda_2_2011_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Minions</title>
+		<year>2015</year>
+		<rating>
+			<imdb>6.5</imdb>
+			<rotten>54</rotten>
+		</rating>
+		<poster>movielist/poster/minions_2015_poster.jpg</poster>
+		<short>Minions Stuart, Kevin and Bob are recruited by Scarlett Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world. </short>
+		<date>10 July 2015</date>
+		<casts>
+			<cast>Sandra Bullock</cast>
+			<cast>Jon Hamm</cast>
+			<cast>Michael Keaton</cast>
+			<cast>Allison Janney</cast>
+			<cast>Marion Cotillard</cast>
+			<cast>Steve Carell</cast>
+		</casts>
+		<directors>
+			<director>Kyle Balda</director>
+			<director>Pierre Coffin</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures</company>
+		</companies>
+		<length>91</length>
+		<web>http://www.minionsmovie.com/</web>
+		<long_re>Ever since the dawn of time, the Minions have lived to serve the most despicable of masters. From T. rex to Napoleon, the easily distracted tribe has helped the biggest and the baddest of villains. Now, join protective leader Kevin, teenage rebel Stuart and lovable little Bob on a global road trip where they'll earn a shot to work for a new boss-the world's first female super-villain-and try to save all of Minionkind...from annihilation. </long_re>
+		<trailer>movielist/trailers/minions_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Criminal</title>
+		<year>2016</year>
+		<rating>
+			<imdb>6.4</imdb>
+			<rotten>32</rotten>
+		</rating>
+		<poster>movielist/poster/criminal_2016_poster.jpg</poster>
+		<short>In a last-ditch effort to stop a diabolical plot, a dead CIA operative's memories, secrets, and skills are implanted into a death-row inmate in hopes that he will complete the operative's mission. </short>
+		<date>15 April 2016</date>
+		<casts>
+			<cast>Kevin Costner</cast>
+			<cast>Gary Oldman</cast>
+			<cast>Tommy Lee Jones</cast>
+			<cast>Jordi Mollà</cast>
+		</casts>
+		<directors>
+			<director>Ariel Vromen</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+		</genres>
+		<companies>
+			<company>Summit Entertainment</company>
+		</companies>
+		<length>113</length>
+		<web>http://www.criminal.movie/</web>
+		<long_re>Bill Pope is a CIA agent on a mission in London tracking down a shadowy hacker nicknamed "The Dutchman." When he gets mysteriously ambushed and killed, an experimental procedure is used to transfer his memories into dangerous ex-convict Jericho Stewart. When he wakes up with the CIA agent's memories, his mission is to find The Dutchman and eliminate him before the hacker launches ICBM's and starts World War III. But complications soon arise and the mission turns personal. </long_re>
+		<trailer>movielist/trailers/criminal_2016_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Dawn of the Planet of the Apes</title>
+		<year>2014</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>90</rotten>
+		</rating>
+		<poster>movielist/poster/dawn_of_the_planet_of_the_apes_2014_poster.jpg</poster>
+		<short>Ten years after a pandemic disease, apes who have survived it are drawn into battle with a group of human survivors. </short>
+		<date>11 July 2014</date>
+		<casts>
+			<cast>Andy Serkis</cast>
+			<cast>Jason Clarke</cast>
+			<cast>Gary Oldman</cast>
+			<cast>Keri Russell</cast>
+			<cast>Judy Greer</cast>
+		</casts>
+		<directors>
+			<director>Matt Reeves</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Drama</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>130</length>
+		<web>http://www.apes2014.com/</web>
+		<long_re>A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier. They reach a fragile peace, but it proves short-lived, as both sides are brought to the brink of a war that will determine who will emerge as Earth's dominant species. </long_re>
+		<trailer>movielist/trailers/dawn_of_the_planet_of_the_apes_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Fantastic Four</title>
+		<year>2015</year>
+		<rating>
+			<imdb>4.3</imdb>
+			<rotten>9</rotten>
+		</rating>
+		<poster>movielist/poster/fantastic_four_2015_poster.jpg</poster>
+		<short>Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy. </short>
+		<date>07 August 2015</date>
+		<casts>
+			<cast>Miles Teller</cast>
+			<cast>Michael B. Jordan</cast>
+			<cast>Kate Mara</cast>
+			<cast>Jamie Bell</cast>
+			<cast>Toby Kebbell</cast>
+		</casts>
+		<directors>
+			<director>Josh Trank</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>100</length>
+		<web>http://www.fantasticfourmovie.com/</web>
+		<long_re>FANTASTIC FOUR, a contemporary re-imagining of Marvel's original and longest-running superhero team, centers on four young outsiders who teleport to an alternate and dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.  </long_re>
+		<trailer>movielist/trailers/fantastic_four_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Tangled</title>
+		<year>2010</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>90</rotten>
+		</rating>
+		<poster>movielist/poster/tangled_2010_poster.jpg</poster>
+		<short>The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is. </short>
+		<date>24 November 2010</date>
+		<casts>
+			<cast>Mandy Moore</cast>
+			<cast>Zachary Levi</cast>
+			<cast>Donna Murphy</cast>
+			<cast>Ron Perlman</cast>
+		</casts>
+		<directors>
+			<director>Nathan Greno</director>
+			<director>Byron Howard</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+		</companies>
+		<length>100</length>
+		<web>http://disney.com/Tangled</web>
+		<long_re>After receiving the healing powers from a magical flower, the baby Princess Rapunzel is kidnapped from the palace in the middle of the night by Mother Gothel. Mother Gothel knows that the flower's magical powers are now growing within the golden hair of Rapunzel, and to stay young, she must lock Rapunzel in her hidden tower. Rapunzel is now a teenager and her hair has grown to a length of 70-feet. The beautiful Rapunzel has been in the tower her entire life, and she is curious of the outside world. One day, the bandit Flynn Ryder scales the tower and is taken captive by Rapunzel. Rapunzel strikes a deal with the charming thief to act as her guide to travel to the place where the floating lights come from that she has seen every year on her birthday. Rapunzel is about to have the most exciting and magnificent journey of her life. </long_re>
+		<trailer>movielist/trailers/tangled_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Guardians of the Galaxy</title>
+		<year>2014</year>
+		<rating>
+			<imdb>8.5</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/guardians_of_the_galaxy_2014_poster.jpg</poster>
+		<short>A group of space criminals must work together to stop the fanatical villain Ronan the Accuser from destroying the galaxy. </short>
+		<date>01 August 2014</date>
+		<casts>
+			<cast>Chris Pratt</cast>
+			<cast>Zoe Saldana</cast>
+			<cast>Dave Bautista</cast>
+			<cast>Vin Diesel</cast>
+		</casts>
+		<directors>
+			<director>James Gunn</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+		</companies>
+		<length>121</length>
+		<web>http://marvel.com/guardians</web>
+		<long_re>After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth, is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the "Guardians of the Galaxy" to save the world. </long_re>
+		<trailer>movielist/trailers/guardians_of_the_galaxy_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Kingsman: The Secret Service</title>
+		<year>2014</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>74</rotten>
+		</rating>
+		<poster>movielist/poster/kingsman_the_secret_service_2014_poster.jpg</poster>
+		<short>A spy organization recruits an unrefined, but promising street kid into the agency's ultra-competitive training program, just as a global threat emerges from a twisted tech genius. </short>
+		<date>13 February 2015</date>
+		<casts>
+			<cast>Adrian Quinton</cast>
+			<cast>Colin Firth</cast>
+			<cast>Mark Strong</cast>
+			<cast>Jonno Davies</cast>
+			<cast>Mark Hamill</cast>
+			<cast>Samuel L. Jackson</cast>
+			<cast>Taron Egerton</cast>
+		</casts>
+		<directors>
+			<director>Matthew Vaughn</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>121</length>
+		<web>http://www.kingsmanmovie.com/</web>
+		<long_re>Harry Hart is part of an elite secret spy organization called the Kingsman. When he finds a regular street kid named Gary "Eggsy" Unwin down on his luck, he recruits him into the ultra intense training program. Meanwhile, criminal tech mastermind Valentine is planning a mass genocide to wipe out certain DNA codes. When the Kingsman learn about the crime, Hart and Eggsy have to spring into action, track down the mastermind and his weapon and sift through a web of traitors to stop his plot. </long_re>
+		<trailer>movielist/trailers/kingsman_the_secret_service_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Open Season: Scared Silly</title>
+		<year>2015</year>
+		<rating>
+			<imdb>5.2</imdb>
+			<rotten>37</rotten>
+		</rating>
+		<poster>movielist/poster/open_season_scared_silly_2015_poster.jpg</poster>
+		<short>Elliot, Boog and all of the beloved woodland creatures are back in a brand new comedy adventure. </short>
+		<date>08 March 2016</date>
+		<casts>
+			<cast>Will Townsend</cast>
+			<cast>Melissa Sturm</cast>
+			<cast>Trevor Devall</cast>
+			<cast>Garry Chalk</cast>
+			<cast>Peter Kelamis</cast>
+			<cast>Shannon Chan-Kent</cast>
+		</casts>
+		<directors>
+			<director>David Feiss</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Sony Pictures Animation</company>
+		</companies>
+		<length>84</length>
+		<web>http://www.sonypictures.com/movies/openseasonscaredsilly/</web>
+		<long_re>OPEN SEASON: SCARED SILLY opens with Elliot telling a campfire story about the legend of the Wailing Wampus Werewolf that lives in Timberline National Forest. Domesticated Boog is terrified by the story and decides to "chicken out" of their annual summer camping trip until he knows the werewolf is gone. Determined to help Boog overcome his fears, Elliot and their woodland friends band together to scare the fear out of Boog and uncover the mystery of the Wailing Wampus Werewolf. </long_re>
+		<trailer>movielist/trailers/open_season_scared_silly_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Peanuts Movie</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.4</imdb>
+			<rotten>87</rotten>
+		</rating>
+		<poster>movielist/poster/the_peanuts_movie_2015_poster.jpg</poster>
+		<short>Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life. </short>
+		<date>06 November 2015</date>
+		<casts>
+			<cast>Trombone Shorty</cast>
+			<cast>Rebecca Bloom</cast>
+			<cast>Anastasia Bredikhina</cast>
+			<cast>Francesca Capaldi</cast>
+			<cast>Kristin Chenoweth</cast>
+			<cast>Tessa Netting</cast>
+		</casts>
+		<directors>
+			<director>Steve Martino</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>88</length>
+		<web>http://www.peanutsmovie.com/</web>
+		<long_re>Charlie Brown, Snoopy, and the whole gang are back in a heartwarming story. While Charlie Brown is trying to accomplish something, a new girl with red hair arrives, and Charlie Brown falls in love. Now he tries to impress the red haired girl to make her feel like he's a winner, but Charlie Brown just can't do anything right. At the same time, Snoopy is writing a love story about a beautiful dog. Then Charlie Brown gets a perfect score on his standardized test, but there has been a mistake. Should he tell the truth or get the love of his love to like him? Can Charlie Brown get the girl to love her or will he remain a nothing? </long_re>
+		<trailer>movielist/trailers/the_peanuts_movie_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Spy</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>93</rotten>
+		</rating>
+		<poster>movielist/poster/spy_2015_poster.jpg</poster>
+		<short>A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster. </short>
+		<date>05 June 2015</date>
+		<casts>
+			<cast>Jude Law</cast>
+			<cast>Raad Rawi</cast>
+			<cast>Melissa McCarthy</cast>
+			<cast>Jessica Chaffin</cast>
+		</casts>
+		<directors>
+			<director>Paul Feig</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Comedy</genre>
+			<genre>Crime</genre>
+		</genres>
+		<companies>
+			<company>20th Century Fox</company>
+		</companies>
+		<length>120</length>
+		<web>http://www.foxmovies.com/movies/spy</web>
+		<long_re>Susan Cooper is an unassuming, deskbound CIA analyst, and the unsung hero behind the Agency's most dangerous missions. But when her partner falls off the grid and another top agent is compromised, she volunteers to go deep undercover to infiltrate the world of a deadly arms dealer, and prevent a global crisis. </long_re>
+		<trailer>movielist/trailers/spy_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Lego Movie</title>
+		<year>2014</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>87</rotten>
+		</rating>
+		<poster>movielist/poster/the_lego_movie_2014_poster.jpg</poster>
+		<short>An ordinary Lego construction worker, thought to be the prophesied 'Special', is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis. </short>
+		<date>07 February 2014</date>
+		<casts>
+			<cast>Will Arnett</cast>
+			<cast>Elizabeth Banks</cast>
+			<cast>David Burrows</cast>
+			<cast>Alison Brie</cast>
+		</casts>
+		<directors>
+			<director>Phil Lord</director>
+			<director>Christopher Miller</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros. Pictures</company>
+		</companies>
+		<length>100</length>
+		<web>http://thelegomovie.com</web>
+		<long_re>The LEGO Movie is a 3D animated film which follows lead character, Emmet a completely ordinary LEGO mini-figure who is identified as the most "extraordinary person" and the key to saving the Lego universe. Emmet and his friends go on an epic journey to stop the evil tyrant, Lord Business. </long_re>
+		<trailer>movielist/trailers/the_lego_movie_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>12 Years a Slave</title>
+		<year>2013</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>90</rotten>
+		</rating>
+		<poster>movielist/poster/12_years_a_slave_2013_poster.jpg</poster>
+		<short>In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. </short>
+		<date>8 November 2013</date>
+		<casts>
+			<cast>Chiwetel Ejiofor</cast>
+			<cast>Dwight Henry</cast>
+			<cast>Bryan Batt</cast>
+			<cast>Ashley Dyke</cast>
+		</casts>
+		<directors>
+			<director>Steve McQueen</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>History</genre>
+		</genres>
+		<companies>
+			<company>Fox Searchlight</company>
+			<company>Regency Enterprises</company>
+			<company>River Road Entertainment</company>
+		</companies>
+		<length>134</length>
+		<web>http://www.foxsearchlight.com/12yearsaslave/</web>
+		<long_re>Based on an incredible true story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty, as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist will forever alter his life. </long_re>
+		<trailer>movielist/trailers/12_years_a_slave_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Gravity</title>
+		<year>2013</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>80</rotten>
+		</rating>
+		<poster>movielist/poster/gravity_2013_poster.jpg</poster>
+		<short>A medical engineer and an astronaut work together to survive after an accident leaves them adrift in space. </short>
+		<date>4 October 2013</date>
+		<casts>
+			<cast>Sandra Bullock</cast>
+			<cast>George Clooney</cast>
+		</casts>
+		<directors>
+			<director>Alfonso Cuarón</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros</company>
+			<company>Heyday Films</company>
+		</companies>
+		<length>91</length>
+		<web>http://www.warnerbros.com/gravity</web>
+		<long_re>Dr. Ryan Stone is a brilliant medical engineer on her first shuttle mission, with veteran astronaut Matt Kowalski in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving Stone and Kowalsky completely alone - tethered to nothing but each other and spiraling out into the blackness. </long_re>
+		<trailer>movielist/trailers/gravity_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Black Swan</title>
+		<year>2010</year>
+		<rating>
+			<imdb>8.0</imdb>
+			<rotten>84</rotten>
+		</rating>
+		<poster>movielist/poster/black_swan_2010_poster.jpg</poster>
+		<short>A committed dancer wins the lead role in a production of Tchaikovsky's "Swan Lake" only to find herself struggling to maintain her sanity. </short>
+		<date>17 December 2010</date>
+		<casts>
+			<cast>Natalie Portman</cast>
+			<cast>Mila Kunis</cast>
+			<cast>Vincent Cassel</cast>
+			<cast>Barbara Hershey</cast>
+		</casts>
+		<directors>
+			<director>Darren Aronofsky</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Fox Searchlight Pictures</company>
+			<company>Cross Creek Pictures</company>
+		</companies>
+		<length>108</length>
+		<web>http://www.foxsearchlight.com/blackswan/</web>
+		<long_re>Nina is a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her obsessive former ballerina mother Erica who exerts a suffocating control over her. When artistic director Thomas Leroy decides to replace prima ballerina Beth MacIntyre for the opening production of their new season, Swan Lake, Nina is his first choice. But Nina has competition: a new dancer, Lily, who impresses Leroy as well. Swan Lake requires a dancer who can play both the White Swan with innocence and grace, and the Black Swan, who represents guile and sensuality. Nina fits the White Swan role perfectly but Lily is the personification of the Black Swan. As the two young dancers expand their rivalry into a twisted friendship, Nina begins to get more in touch with her dark side - a recklessness that threatens to destroy her. </long_re>
+		<trailer>movielist/trailers/black_swan_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Avengers</title>
+		<year>2012</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/the_avengers_2012_poster.jpg</poster>
+		<short>Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity. </short>
+		<date>4 May 2012</date>
+		<casts>
+			<cast>Robert Downey Jr.</cast>
+			<cast>Chris Evans</cast>
+			<cast>Mark Ruffalo</cast>
+			<cast>Chris Hemsworth</cast>
+			<cast>Scarlett Johansson</cast>
+			<cast>Jeremy Renner</cast>
+			<cast>Tom Hiddleston</cast>
+			<cast>Samuel L. Jackson</cast>
+		</casts>
+		<directors>
+			<director>Joss Whedon</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Marvel Studios</company>
+			<company>Paramount Pictures</company>
+		</companies>
+		<length>143</length>
+		<web>https://web.facebook.com/avengers</web>
+		<long_re>Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster. </long_re>
+		<trailer>movielist/trailers/the_avengers_2012_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Skyfall</title>
+		<year>2012</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>86</rotten>
+		</rating>
+		<poster>movielist/poster/skyfall_2012_poster.jpg</poster>
+		<short>Bond's loyalty to M is tested when her past comes back to haunt her. Whilst MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost. </short>
+		<date>9 November 2012</date>
+		<casts>
+			<cast>Daniel Craig</cast>
+			<cast>Judi Dench</cast>
+			<cast>Javier Bardem</cast>
+			<cast>Ralph Fiennes</cast>
+			<cast>Naomie Harris</cast>
+		</casts>
+		<directors>
+			<director>Sam Mendes</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Eon Productions</company>
+		</companies>
+		<length>143</length>
+		<web>http://www.007.com/skyfall/</web>
+		<long_re>When Bond's latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory, the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows - aided only by field agent, Eve - following a trail to the mysterious Silva, whose lethal and hidden motives have yet to reveal themselves. </long_re>
+		<trailer>movielist/trailers/skyfall_2012_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Silver Linings Playbook</title>
+		<year>2012</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>86</rotten>
+		</rating>
+		<poster>movielist/poster/silver_linings_playbook_2012_poster.jpg</poster>
+		<short>After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own. </short>
+		<date>25 December 2012</date>
+		<casts>
+			<cast>Bradley Cooper</cast>
+			<cast>Jennifer Lawrence</cast>
+			<cast>Robert De Niro</cast>
+			<cast>Jacki Weaver</cast>
+		</casts>
+		<directors>
+			<director>David O. Russell</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Weinstein Company</company>
+		</companies>
+		<length>143</length>
+		<web>http://silverliningsplaybookmovie.com/</web>
+		<long_re>Against medical advice and without the knowledge of her husband Pat Solatano Sr., caring Dolores Solatano discharges her adult son, Pat Solatano Jr., from a Maryland mental health institution after his minimum eight month court ordered stint. The condition of the release includes Pat Jr. moving back in with his parents in their Philadelphia home. Although Pat Jr.'s institutionalization was due to him beating up the lover of his wife Nikki, he was diagnosed with bipolar disorder. Nikki has since left him and has received a restraining order against him. Although he is on medication (which he doesn't take because of the way it makes him feel) and has mandatory therapy sessions, Pat Jr. feels like he can manage on the outside solely by healthy living and looking for the "silver linings" in his life. His goals are to get his old job back as a substitute teacher, but more importantly reunite with Nikki. He finds there are certain instances where he doesn't cope well, however no less so ...  </long_re>
+		<trailer>movielist/trailers/silver_linings_playbook_2012_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Assassination</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>78</rotten>
+		</rating>
+		<poster>movielist/poster/assassination_2015_poster.jpg</poster>
+		<short>While Korea is occupied by the Japanese Army in 1933, the resistance plans to kill the Japanese Commander. But their plan is threatened by a traitor within their group and also the enemies' forces are hunting them down. </short>
+		<date>7 August 2015</date>
+		<casts>
+			<cast>Ji-hyun Jun</cast>
+			<cast>Jung-jae Lee</cast>
+			<cast>Jung-woo Ha</cast>
+		</casts>
+		<directors>
+			<director>Dong-hoon Choi</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>History</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Caper Film</company>
+		</companies>
+		<length>140</length>
+		<web>http://www.assassination.kr/</web>
+		<long_re>Korea in the year 1933, the country is occupied by the Japanese army. Many warriors of the resistance where forced into the exile in China. Now they are trying to organize the fight from the distance. Now the resistance has learned that the highest commander of the Japanese army is going to visit Korea. They decide to take the chance and kill him by assassination. But the only sniper who is able to make that shot is Ahn Ok-yun, who is serving her time in the prison of Shanghai. The resistance agent Yem Sek-jin is set to get her and her comrades out, but his plan is offered to the Japanese by a traitor. Now, Ok-yun and her warriors not just have to flee from the Chinese prison, she also must face the Japanese army and a very special hit-man, assigned to take her down. </long_re>
+		<trailer>movielist/trailers/assassination_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Toy Story 3</title>
+		<year>2010</year>
+		<rating>
+			<imdb>8.3</imdb>
+			<rotten>89</rotten>
+		</rating>
+		<poster>movielist/poster/toy_story_3_2010_poster.jpg</poster>
+		<short>The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home. </short>
+		<date>18 June 2010</date>
+		<casts>
+			<cast>Tom Hanks</cast>
+			<cast>Tim Allen</cast>
+			<cast>Joan Cusack</cast>
+			<cast>Ned Beatty</cast>
+		</casts>
+		<directors>
+			<director>Lee Unkrich</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+			<company>Pixar Animation Studios</company>
+		</companies>
+		<length>103</length>
+		<web>http://www.disney.co.uk/toy-story</web>
+		<long_re>Woody, Buzz and the whole gang are back. As their owner Andy prepares to depart for college, his loyal toys find themselves in daycare where untamed tots with their sticky little fingers do not play nice. So, it's all for one and one for all as they join Barbie's counterpart Ken, a thespian hedgehog named Mr. Pricklepants and a pink, strawberry-scented teddy bear called Lots-o'-Huggin' Bear to plan their great escape. </long_re>
+		<trailer>movielist/trailers/toy_story_3_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>King Kong</title>
+		<year>2005</year>
+		<rating>
+			<imdb>8.3</imdb>
+			<rotten>50</rotten>
+		</rating>
+		<poster>movielist/poster/king_kong_2005_poster.jpg</poster>
+		<short>In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with leading lady Ann Darrow. </short>
+		<date>14 December 2005</date>
+		<casts>
+			<cast>Naomi Watts</cast>
+			<cast>Jack Black</cast>
+			<cast>Adrien Brody</cast>
+			<cast>Thomas Kretschmann</cast>
+		</casts>
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures</company>
+		</companies>
+		<length>187</length>
+		<web>https://web.facebook.com/KingKongOfficial</web>
+		<long_re>Carl Denham needs to finish his movie and has the perfect location; Skull Island. But he still needs to find a leading lady. This 'soon-to-be-unfortunate' soul is Ann Darrow. No one knows what they will encounter on this island and why it is so mysterious, but once they reach it, they will soon find out. Living on this hidden island is a giant gorilla and this beast now has Ann is its grasps. Carl and Ann's new love, Jack Driscoll must travel through the jungle looking for Kong and Ann, whilst avoiding all sorts of creatures and beasts. But Carl has another plan in mind. </long_re>
+		<trailer>movielist/trailers/king_kong_2005_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Sinister 2</title>
+		<year>2015</year>
+		<rating>
+			<imdb>5.3</imdb>
+			<rotten>14</rotten>
+		</rating>
+		<poster>movielist/poster/sinister_2_2015_poster.jpg</poster>
+		<short>A young mother and her twin sons move into a rural house that's marked for death. </short>
+		<date>21 August 2015</date>
+		<casts>
+			<cast>James Ransone</cast>
+			<cast>Shannyn Sossamon</cast>
+			<cast>Robert Daniel Sloan</cast>
+			<cast>Dartanian Sloan</cast>
+		</casts>
+		<directors>
+			<director>Ciarán Foy</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Mystery</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Entertainment One</company>
+		</companies>
+		<length>97</length>
+		<web>http://www.sinistermovie.com/</web>
+		<long_re>Following the events from the first film, a different family; a mother and her 2 sons move into a rural house that's marked for death. When the deputy from the first film learns that this family is next in line to fall to the demon Bhughul, he races before time to stop it and save them from the same fate. </long_re>
+		<trailer>movielist/trailers/sinister_2_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Visit</title>
+		<year>2015</year>
+		<rating>
+			<imdb>5.3</imdb>
+			<rotten>63</rotten>
+		</rating>
+		<poster>movielist/poster/the_visit_2015_poster.jpg</poster>
+		<short>Two siblings become increasingly frightened by their grandparents' disturbing behavior while visiting them on vacation. </short>
+		<date>11 September 2015</date>
+		<casts>
+			<cast>Olivia DeJonge</cast>
+			<cast>Ed Oxenbould</cast>
+			<cast>Deanna Dunagan</cast>
+			<cast>Peter McRobbie</cast>
+		</casts>
+		<directors>
+			<director>M. Night Shyamalan</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Blinding Edge Pictures</company>
+		</companies>
+		<length>94</length>
+		<web>http://www.stayinyourroom.com/?redirect=off</web>
+		<long_re>Two children are sent to their grandparents house to spend a week with their grandparents while their single mom goes on a relaxing vacation with her boyfriend. One of the kids, Becca, decides to film a documentary about her grandparents in order to help her mom reconnect with her parents and also find out some things about her parents as well. While filming the documentary, however, Becca and her little brother, Tyler, discover a dark secret about their grandparents. </long_re>
+		<trailer>movielist/trailers/the_visit_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Paranormal Activity: The Ghost Dimension</title>
+		<year>2015</year>
+		<rating>
+			<imdb>4.6</imdb>
+			<rotten>32</rotten>
+		</rating>
+		<poster>movielist/poster/paranormal_activity_the_ghost_dimension_2015_poster.jpg</poster>
+		<short>Using a special camera that can see spirits, a family must protect their daughter from an evil entity with a sinister plan. </short>
+		<date>23 October 2015</date>
+		<casts>
+			<cast>Chris J. Murray</cast>
+			<cast>Brit Shaw</cast>
+			<cast>Ivy George</cast>
+			<cast>Dan Gill</cast>
+		</casts>
+		<directors>
+			<director>Gregory Plotkin</director>
+		</directors>
+		<genres>
+			<genre>Horror</genre>
+		</genres>
+		<companies>
+			<company>Paramount Pictures</company>
+		</companies>
+		<length>95</length>
+		<web>https://web.facebook.com/paranormalactivity</web>
+		<long_re>The Ghost Dimension, follows a new family, The Fleeges - father Ryan (Chris J. Murray), mother Emily (Brit Shaw) and their young daughter Leila (Ivy George) - Who move into a house and discover a video camera and a box of tapes in the garage. When they look through the camera's lens, they begin to see the paranormal activity happening around them - including the re-emergence of young Kristi and Katie. </long_re>
+		<trailer>movielist/trailers/paranormal_activity_the_ghost_dimension_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Paper Towns</title>
+		<year>2015</year>
+		<rating>
+			<imdb>6.4</imdb>
+			<rotten>55</rotten>
+		</rating>
+		<poster>movielist/poster/paper_towns_2015_poster.jpg</poster>
+		<short>After an all night adventure, Quentin's life-long crush, Margo, disappears, leaving behind clues that Quentin and his friends follow on the journey of a lifetime. </short>
+		<date>24 July 2015</date>
+		<casts>
+			<cast>Nat Wolff</cast>
+			<cast>Cara Delevingne</cast>
+			<cast>Austin Abrams</cast>
+			<cast>Justice Smith</cast>
+		</casts>
+		<directors>
+			<director>Jake Schreier</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Fox 2000 Pictures</company>
+			<company>Temple Hill Entertainment</company>
+		</companies>
+		<length>109</length>
+		<web>http://papertownsmovie.com/</web>
+		<long_re>Adapted from the bestselling novel by author John Green, PAPER TOWNS is a coming-of-age story centering on Quentin and his enigmatic neighbor Margo, who loved mysteries so much she became one. After taking him on an all-night adventure through their hometown, Margo suddenly disappears - leaving behind cryptic clues for Quentin to decipher. The search leads Quentin and his quick-witted friends on an exhilarating adventure that is equal parts hilarious and moving. Ultimately, to track down Margo, Quentin must find a deeper understanding of true friendship - and true love. </long_re>
+		<trailer>movielist/trailers/paper_towns_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Tomorrowland</title>
+		<year>2015</year>
+		<rating>
+			<imdb>6.5</imdb>
+			<rotten>55</rotten>
+		</rating>
+		<poster>movielist/poster/tomorrowland_2015_poster.jpg</poster>
+		<short>Bound by a shared destiny, a teen bursting with scientific curiosity and a former boy-genius inventor embark on a mission to unearth the secrets of a place somewhere in time and space that exists in their collective memory. </short>
+		<date>22 May 2015</date>
+		<casts>
+			<cast>George Clooney</cast>
+			<cast>Hugh Laurie</cast>
+			<cast>Britt Robertson</cast>
+			<cast>Raffey Cassidy</cast>
+		</casts>
+		<directors>
+			<director>Brad Bird</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Mystery</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+		</companies>
+		<length>130</length>
+		<web>http://movies.disney.com/tomorrowland/</web>
+		<long_re>Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as "Tomorrowland." </long_re>
+		<trailer>movielist/trailers/tomorrowland_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Ex machina</title>
+		<year>2015</year>
+		<rating>
+			<imdb>6.5</imdb>
+			<rotten>55</rotten>
+		</rating>
+		<poster>movielist/poster/ex_machina_2015_poster.jpg</poster>
+		<short>A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I. </short>
+		<date>24 April 2015</date>
+		<casts>
+			<cast>Domhnall Gleeson</cast>
+			<cast>Corey Johnson</cast>
+			<cast>Oscar Isaac</cast>
+			<cast>Alicia Vikander</cast>
+		</casts>
+		<directors>
+			<director>Alex Garland</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures International</company>
+		</companies>
+		<length>108</length>
+		<web>https://web.facebook.com/ExMachinaMovie</web>
+		<long_re>Caleb, a 26 year old programmer at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl. </long_re>
+		<trailer>movielist/trailers/ex_machina_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Hateful Eight</title>
+		<year>2015</year>
+		<rating>
+			<imdb>7.9</imdb>
+			<rotten>75</rotten>
+		</rating>
+		<poster>movielist/poster/the_hateful_eight_2015_poster.jpg</poster>
+		<short>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters. </short>
+		<date>30 December 2015</date>
+		<casts>
+			<cast>Samuel L. Jackson</cast>
+			<cast>Kurt Russell</cast>
+			<cast>Jennifer Jason Leigh</cast>
+			<cast>Walton Goggins</cast>
+		</casts>
+		<directors>
+			<director>Quentin Tarantino</director>
+		</directors>
+		<genres>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+			<genre>Thriller</genre>
+			<genre>Western</genre>
+		</genres>
+		<companies>
+			<company>Double Feature Films</company>
+		</companies>
+		<length>187</length>
+		<web>http://thehatefuleight.com</web>
+		<long_re>Some time after the Civil War, a stagecoach hurtles through the wintry Wyoming landscape. Bounty hunter John Ruth and his fugitive captive Daisy Domergue race towards the town of Red Rock, where Ruth will bring Daisy to justice. Along the road, they encounter Major Marquis Warren (an infamous bounty hunter) and Chris Mannix (a man who claims to be Red Rock's new sheriff). Lost in a blizzard, the bunch seeks refuge at Minnie's Haberdashery. When they arrive they are greeted by unfamiliar faces: Bob, who claims to be taking care of the place while Minnie is gone; Oswaldo Mobray, the hangman of Red Rock; Joe Gage, a cow puncher; and confederate general Sanford Smithers. As the storm overtakes the mountainside, the eight travelers come to learn that they might not make it to Red Rock after all.</long_re>
+		<trailer>movielist/trailers/the_hateful_eight_2015_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Inception</title>
+		<year>2010</year>
+		<rating>
+			<imdb>8.8</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/inception_2010_poster.jpg</poster>
+		<short>A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO. </short>
+		<date>16 July 2010</date>
+		<casts>
+			<cast>Leonardo DiCaprio</cast>
+			<cast>Joseph Gordon-Levitt</cast>
+			<cast>Ellen Page</cast>
+			<cast>Tom Hardy</cast>
+		</casts>
+		<directors>
+			<director>Christopher Nolan</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros</company>
+			<company>Legendary Pictures</company>
+		</companies>
+		<length>148</length>
+		<web>https://web.facebook.com/inception</web>
+		<long_re>Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming. </long_re>
+		<trailer>movielist/trailers/inception_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Social Network</title>
+		<year>2010</year>
+		<rating>
+			<imdb>7.7</imdb>
+			<rotten>96</rotten>
+		</rating>
+		<poster>movielist/poster/the_social_network_2010_poster.jpg</poster>
+		<short>Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business. </short>
+		<date>1 October 2010</date>
+		<casts>
+			<cast>Jesse Eisenberg</cast>
+			<cast>Rooney Mara</cast>
+			<cast>Bryan Barter</cast>
+			<cast>Dustin Fitzsimons</cast>
+		</casts>
+		<directors>
+			<director>David Fincher</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+		</genres>
+		<companies>
+			<company>Columbia Pictures</company>
+			<company>Relativity Media</company>
+		</companies>
+		<length>120</length>
+		<web>http://www.sonypictures.com/movies/thesocialnetwork/</web>
+		<long_re>On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications. </long_re>
+		<trailer>movielist/trailers/the_social_network_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Kings Speech</title>
+		<year>2010</year>
+		<rating>
+			<imdb>8.0</imdb>
+			<rotten>94</rotten>
+		</rating>
+		<poster>movielist/poster/the_kings_speech_2010_poster.jpg</poster>
+		<short>The story of King George VI of the United Kingdom of Great Britain and Northern Ireland, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it. </short>
+		<date>25 December 2010</date>
+		<casts>
+			<cast>Colin Firth</cast>
+			<cast>Helena Bonham Carter</cast>
+			<cast>Derek Jacobi</cast>
+			<cast>Robert Portal</cast>
+		</casts>
+		<directors>
+			<director>Tom Hooper</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>History</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Weinstein Company</company>
+			<company>The UK Film Council</company>
+		</companies>
+		<length>118</length>
+		<web>http://www.kingsspeech.com/</web>
+		<long_re>Tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stammer and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country through war. </long_re>
+		<trailer>movielist/trailers/the_kings_speech_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Robin Hood</title>
+		<year>2010</year>
+		<rating>
+			<imdb>6.7</imdb>
+			<rotten>58</rotten>
+		</rating>
+		<poster>movielist/poster/robin_hood_2010_poster.jpg</poster>
+		<short>In 12th century England, Robin and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power. </short>
+		<date>14 May 2010</date>
+		<casts>
+			<cast>Russell Crowe</cast>
+			<cast>Cate Blanchett</cast>
+			<cast>Max von Sydow</cast>
+			<cast>William Hurt</cast>
+		</casts>
+		<directors>
+			<director>Ridley Scott</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>History</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures</company>
+			<company>Relativity Media</company>
+		</companies>
+		<length>140</length>
+		<web>https://web.facebook.com/RobinHoodMovie</web>
+		<long_re>Birth of a legend. Following King Richard's death in France, archer Robin Longstride, along with Will Scarlett, Alan-a-Dale and Little John, returns to England. They encounter the dying Robert of Locksley, whose party was ambushed by treacherous Godfrey, who hopes to facilitate a French invasion of England. Robin promises the dying knight he will return his sword to his father Walter in Nottingham. Here Walter encourages him to impersonate the dead man to prevent his land being confiscated by the crown, and he finds himself with Marian, a ready-made wife. Hoping to stir baronial opposition to weak King John and allow an easy French take-over, Godfrey worms his way into the king's service as Earl Marshal of England and brutally invades towns under the pretext of collecting Royal taxes. Can Robin navigate the politics of barons, royals, traitors, and the French? </long_re>
+		<trailer>movielist/trailers/robin_hood_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Letters to Juliet</title>
+		<year>2010</year>
+		<rating>
+			<imdb>6.5</imdb>
+			<rotten>40</rotten>
+		</rating>
+		<poster>movielist/poster/letters_to_juliet_2010_poster.jpg</poster>
+		<short>Sophie dreams of becoming a writer and travels to Verona, Italy where she meets the "Secretaries of Juliet". </short>
+		<date>14 May 2010</date>
+		<casts>
+			<cast>Amanda Seyfried</cast>
+			<cast>Marcia DeBonis</cast>
+			<cast>Gael García Bernal</cast>
+			<cast>Giordano Formenti</cast>
+		</casts>
+		<directors>
+			<director>Gary Winick</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Summit Entertainment</company>
+		</companies>
+		<length>105</length>
+		<web>http://www.letterstojuliet-movie.com/</web>
+		<long_re>An American girl on vacation in Italy finds an unanswered "letter to Juliet" -- one of thousands of missives left at the fictional lover's Verona courtyard, which are typically answered by the "secretaries of Juliet" -- and she goes on a quest to find the lovers referenced in the letter.</long_re>
+		<trailer>movielist/trailers/letters_to_juliet_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Twilight Saga: Eclipse</title>
+		<year>2010</year>
+		<rating>
+			<imdb>4.9</imdb>
+			<rotten>60</rotten>
+		</rating>
+		<poster>movielist/poster/twilight_saga_eclipse_2010_poster.jpg</poster>
+		<short>As a string of mysterious killings grips Seattle, Bella, whose high school graduation is fast approaching, is forced to choose between her love for vampire Edward and her friendship with werewolf Jacob. </short>
+		<date>30 June 2010</date>
+		<casts>
+			<cast>Xavier Samuel</cast>
+			<cast>Kristen Stewart</cast>
+			<cast>Robert Pattinson</cast>
+			<cast>Billy Burke</cast>
+		</casts>
+		<directors>
+			<director>David Slade</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+			<genre>Romance</genre>
+		</genres>
+		<companies>
+			<company>Summit Entertainment</company>
+		</companies>
+		<length>124</length>
+		<web>http://www.eclipsethemovie.com/</web>
+		<long_re>Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob -- knowing that her decision has the potential to ignite the struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life. </long_re>
+		<trailer>movielist/trailers/twilight_saga_eclipse_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Book of Eli</title>
+		<year>2010</year>
+		<rating>
+			<imdb>6.9</imdb>
+			<rotten>48</rotten>
+		</rating>
+		<poster>movielist/poster/the_book_of_eli_2010_poster.jpg</poster>
+		<short>A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind. </short>
+		<date>15 January 2010</date>
+		<casts>
+			<cast>Denzel Washington</cast>
+			<cast>Gary Oldman</cast>
+			<cast>Mila Kunis</cast>
+		</casts>
+		<directors>
+			<director>Albert Hughes</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Alcon Entertainment</company>
+		</companies>
+		<length>118</length>
+		<web>http://www.sonypictures.net/movies/bookofeli/</web>
+		<long_re>In a violent post-apocalyptic society, a drifter, Eli, has been wandering westward across North America for the last thirty years. He finds solace in a unique book which he carries on his person and guards closely, whilst surviving by hunting small animals and seeking goods in destroyed houses and vehicles to trade in villages for water and supplies. When he reaches a village ruled by the powerful mobster, Carnegie, the man views Eli's impressive fighting skills and offers Eli a place within his gang. Carnegie presses his blind lover Claudia to send her daughter, Solara, to at least convince Eli to spend the night by sleeping with him. However, Eli proves to be the better man when he gently declines her advances. The girl sees Eli's book, and when Carnegie finds out he beats her mother until she reveals what she saw. Carnegie sends his gang into the wasteland to take the book from Eli, but the man proves to be a formidable foe as he makes it more than clear that if they want the book,... </long_re>
+		<trailer>movielist/trailers/the_book_of_eli_2010_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Batman Begins</title>
+		<year>2005</year>
+		<rating>
+			<imdb>8.3</imdb>
+			<rotten>85</rotten>
+		</rating>
+		<poster>movielist/poster/batman_begins_2005_poster.jpg</poster>
+		<short>After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it. </short>
+		<date>15 June 2005</date>
+		<casts>
+			<cast>Christian Bale</cast>
+			<cast>Michael Caine</cast>
+			<cast>Ken Watanabe</cast>
+			<cast>Liam Neeson</cast>
+		</casts>
+		<directors>
+			<director>Christopher Nolan</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Crime</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros. Pictures</company>
+		</companies>
+		<length>140</length>
+		<web>http://www.batmanbegins.com/</web>
+		<long_re>When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia where he is mentored by Henri Ducard and Ra's Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home. Back in his original surroundings, Bruce adopts the image of a bat to strike fear into the criminals and the corrupt as the icon known as 'Batman'. But it doesn't stay quiet for long. </long_re>
+		<trailer>movielist/trailers/batman_begins_2005_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Harry Potter and the Goblet of Fire</title>
+		<year>2005</year>
+		<rating>
+			<imdb>7.6</imdb>
+			<rotten>87</rotten>
+		</rating>
+		<poster>movielist/poster/harry_potter_and_the_goblet_of_fire_2005_poster.jpg</poster>
+		<short>Harry finds himself mysteriously selected as an under-aged competitor in a dangerous tournament between three schools of magic. </short>
+		<date>18 November 2005</date>
+		<casts>
+			<cast>Eric Sykes</cast>
+			<cast>Timothy Spall</cast>
+			<cast>David Tennant</cast>
+			<cast>Daniel Radcliffe</cast>
+		</casts>
+		<directors>
+			<director>Mike Newell</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros.</company>
+			<company>Heyday Films</company>
+		</companies>
+		<length>157</length>
+		<web>https://www.warnerbros.co.uk/franchises/harry-potter</web>
+		<long_re>Harry's fourth year at Hogwarts is about to start and he is enjoying the summer vacation with his friends. They get the tickets to The Quidditch World Cup Final but after the match is over, people dressed like Lord Voldemort's 'Death Eaters' set a fire to all the visitors' tents, coupled with the appearance of Voldemort's symbol, the 'Dark Mark' in the sky, which causes a frenzy across the magical community. That same year, Hogwarts is hosting 'The Triwizard Tournament', a magical tournament between three well-known schools of magic : Hogwarts, Beauxbatons and Durmstrang. The contestants have to be above the age of 17, and are chosen by a magical object called Goblet of Fire. On the night of selection, however, the Goblet spews out four names instead of the usual three, with Harry unwittingly being selected as the Fourth Champion. Since the magic cannot be reversed, Harry is forced to go with it and brave three exceedingly difficult tasks. </long_re>
+		<trailer>movielist/trailers/harry_potter_and_the_goblet_of_fire_2005_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Sin City</title>
+		<year>2005</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>78</rotten>
+		</rating>
+		<poster>movielist/poster/sin_city_2005_poster.jpg</poster>
+		<short>A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption. </short>
+		<date>1 April 2005</date>
+		<casts>
+			<cast>Mickey Rourke</cast>
+			<cast>Clive Owen</cast>
+			<cast>Bruce Willis</cast>
+			<cast>Devon Aoki</cast>
+		</casts>
+		<directors>
+			<director>Frank Miller</director>
+			<director>Robert Rodriguez</director>
+		</directors>
+		<genres>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Dimension Films</company>
+			<company>Troublemaker Studios</company>
+		</companies>
+		<length>147</length>
+		<web>https://web.facebook.com/SinCityMovie</web>
+		<long_re>Four tales of crime adapted from Frank Miller's popular comics, focusing around a muscular brute who's looking for the person responsible for the death of his beloved Goldie, a man fed up with Sin City's corrupt law enforcement who takes the law into his own hands after a horrible mistake, a cop who risks his life to protect a girl from a deformed pedophile, and a hitman looking to make a little cash. </long_re>
+		<trailer>movielist/trailers/sin_city_2005_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Sin City: A Dame to Kill For</title>
+		<year>2014</year>
+		<rating>
+			<imdb>6.5</imdb>
+			<rotten>44</rotten>
+		</rating>
+		<poster>movielist/poster/sin_city_a_dame_to_kill_for_2014_poster.jpg</poster>
+		<short>Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants. </short>
+		<date>22 August 2014</date>
+		<casts>
+			<cast>Mickey Rourke</cast>
+			<cast>Jessica Alba</cast>
+			<cast>Bruce Willis</cast>
+			<cast>Rosario Dawson</cast>
+		</casts>
+		<directors>
+			<director>Frank Miller</director>
+			<director>Robert Rodriguez</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Aldamisa Entertainment</company>
+			<company>Troublemaker Studios</company>
+		</companies>
+		<length>102</length>
+		<web>http://sincity-2.com/</web>
+		<long_re>Marv is unconscious on a highway surrounded by corpses. When he awakes, he has amnesia and tries to recall his last steps from the Kadie's saloon on the Saturday night. He recalls that he found four playboys burning a homeless man alive and defended the poor man. Marv hunts them down and kills the group. The cocky gambler Johnny hits jackpot in slot machines in the Kadie's saloon and invites the waitress Marcie to go with him to play poker game against the powerful Senator Roark. He wins the game and suffers the consequence of his arrogance. The private detective Dwight McCarthy is contacted by his former lover Ava Lord that asks to meet him at the Kadie's saloon. Ava asks him for forgiveness for leaving him to marry the wealthy Damian Lord. However her strong chauffeur Manute takes her home. Dwight snoops around Ava's house but is found and beaten by Manute and the bodyguards. When he returns home, Ava is waiting for him naked in the bed and seduces him again. Then she tells that ... </long_re>
+		<trailer>movielist/trailers/sin_city_a_dame_to_kill_for_2014_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Charlie and the Chocolate Factory</title>
+		<year>2005</year>
+		<rating>
+			<imdb>6.7</imdb>
+			<rotten>82</rotten>
+		</rating>
+		<poster>movielist/poster/charlie_and_the_chocolate_factory_2005_poster.jpg</poster>
+		<short>A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker. </short>
+		<date>15 July 2005</date>
+		<casts>
+			<cast>Johnny Depp</cast>
+			<cast>Freddie Highmore</cast>
+			<cast>David Kelly</cast>
+			<cast>Helena Bonham Carter</cast>
+		</casts>
+		<directors>
+			<director>Tim Burton</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros</company>
+		</companies>
+		<length>115</length>
+		<web>http://chocolatefactorymovie.warnerbros.com/</web>
+		<long_re>When Willy Wonka decides to let five children into his chocolate factory, he decides to release five golden tickets in five separate chocolate bars, causing complete mayhem. The tickets start to be found, with the fifth going to a very special boy, called Charlie Bucket. With his Grandpa, Charlie joins the rest of the children to experience the most amazing factory ever. But not everything goes to plan within the factory. </long_re>
+		<trailer>movielist/trailers/charlie_and_the_chocolate_factory_2005_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Finding Nemo</title>
+		<year>2003</year>
+		<rating>
+			<imdb>8.2</imdb>
+			<rotten>86</rotten>
+		</rating>
+		<poster>movielist/poster/finding_nemo_2003_poster.jpg</poster>
+		<short>After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home. </short>
+		<date>30 May 2003</date>
+		<casts>
+			<cast>Albert Brooks</cast>
+			<cast>Ellen DeGeneres</cast>
+			<cast>Alexander Gould</cast>
+			<cast>Willem Dafoe</cast>
+		</casts>
+		<directors>
+			<director>Andrew Stanton</director>
+			<director>Lee Unkrich</director>
+		</directors>
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+			<company>Pixar Animation Studios</company>
+		</companies>
+		<length>100</length>
+		<web>http://www.finding-nemo.com/</web>
+		<long_re>A clown fish named Marlin lives in the Great Barrier Reef loses his son, Nemo. After he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. So, while Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbor. While the two are doing this, Nemo and the other sea animals in the dentist's fish tank plot a way to return to Sydney Harbor to live their lives free again. </long_re>
+		<trailer>movielist/trailers/finding_nemo_2003_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>WALL-E</title>
+		<year>2008</year>
+		<rating>
+			<imdb>8.4</imdb>
+			<rotten>89</rotten>
+		</rating>
+		<poster>movielist/poster/wall_e_2008_poster.jpg</poster>
+		<short>In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.  </short>
+		<date>24 June 2008</date>
+		<casts>
+			<cast>Ben Burtt</cast>
+			<cast>Elissa Knight</cast>
+			<cast>Jeff Garlin</cast>
+			<cast>Fred Willard</cast>
+		</casts>
+		<directors>
+			<director>Andrew Stanton</director>
+		</directors>
+		<genres>
+		    <genre>Animation</genre>
+		    <genre>Adventure</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Walt Disney Pictures</company>
+			<company>Pixar Animation Studios</company>
+		</companies>
+		<length>98</length>
+		<web>http://www.wall-e.com/</web>
+		<long_re>In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her "directive", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, ... </long_re>
+		<trailer>movielist/trailers/wall_e_2008_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Last Samurai</title>
+		<year>2003</year>
+		<rating>
+			<imdb>7.7</imdb>
+			<rotten>83</rotten>
+		</rating>
+		<poster>movielist/poster/the_last_samurai_2003_poster.jpg</poster>
+		<short>An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.  </short>
+		<date>07 February 2014</date>
+		<casts>
+			<cast>Ken Watanabe</cast>
+			<cast>Tom Cruise</cast>
+			<cast>William Atherton</cast>
+			<cast>Chad Lindberg</cast>
+		</casts>
+		<directors>
+			<director>Edward Zwick</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Drama</genre>
+			<genre>History</genre>
+			<genre>War</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros. Pictures</company>
+		</companies>
+		<length>154</length>
+		<web>http://thelastsamurai.com</web>
+		<long_re>In the 1870s, Captain Nathan Algren, a cynical veteran of the American Civil war who will work for anyone, is hired by Americans who want lucrative contracts with the Emperor of Japan to train the peasant conscripts for the first standing imperial army in modern warfare using firearms. The imperial Omura cabinet's first priority is to repress a rebellion of traditionalist Samurai -hereditary warriors- who remain devoted to the sacred dynasty but reject the Westernizing policy and even refuse firearms. Yet when his ill-prepared superior force sets out too soon, their panic allows the sword-wielding samurai to crush them. Badly wounded Algren's courageous stand makes the samurai leader Katsumoto spare his life; once nursed to health he learns to know and respect the old Japanese way, and participates as advisor in Katsumoto's failed attempt to save the Bushido tradition, but Omura gets repressive laws enacted- he must now choose to honor his loyalty to one of the embittered sides when .. </long_re>
+		<trailer>movielist/trailers/the_last_samurai_2003_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Last Stand</title>
+		<year>2013</year>
+		<rating>
+			<imdb>6.5</imdb>
+			<rotten>54</rotten>
+		</rating>
+		<poster>movielist/poster/the_last_stand_2013_poster.jpg</poster>
+		<short>The leader of a drug cartel busts out of a courthouse and speeds to the Mexican border, where the only thing in his path is a sheriff and his inexperienced staff.  </short>
+		<date>18 January 2013</date>
+		<casts>
+			<cast>Arron Shiver</cast>
+			<cast>Arnold Schwarzenegger</cast>
+			<cast>Titos Menchaca</cast>
+			<cast>Richard Dillard </cast>
+		</casts>
+		<directors>
+			<director>Jee-woon Kim</director>
+			</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Di Bonaventura Pictures</company>
+		</companies>
+		<length>107</length>
+		<web>http://www.thelaststand.com/</web>
+		<long_re>Sheriff Owens is a man who has resigned himself to a life of fighting what little crime takes place in sleepy border town Sommerton Junction after leaving his LAPD post following a bungled operation that left him wracked with failure and defeat after his partner was crippled. After a spectacular escape from an FBI prisoner convoy, the most notorious, wanted drug kingpin in the hemisphere is hurtling toward the border at 200 mph in a specially outfitted car with a hostage and a fierce army of gang members. He is headed, it turns out, straight for Summerton Junction, where the whole of U.S. law enforcement will have their last opportunity to make a stand and intercept him before he slips across the border forever. At first reluctant to become involved, and then counted out because of the perceived ineptitude of his small town force, Owens ultimately accepts responsibility for the face off. </long_re>
+		<trailer>movielist/trailers/the_last_stand_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Kung Fu Panda</title>
+		<year>2008</year>
+		<rating>
+			<imdb>7.6</imdb>
+			<rotten>82</rotten>
+		</rating>
+		<poster>movielist/poster/kung_fu_panda_2008_poster.jpg</poster>
+		<short>In the Valley of Peace, Po the Panda finds himself chosen as the Dragon Warrior despite the fact that he is obese and a complete novice at martial arts. </short>
+		<date>06 June 2008</date>
+		<casts>
+			<cast>Jack Black</cast>
+			<cast>Dustin Hoffman</cast>
+			<cast>Angelina Jolie Pitt</cast>
+			<cast>Ian McShane</cast>
+		</casts>
+		<directors>
+			<director>Mark Osborne</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+		</genres>
+		<companies>
+			<company>DreamWorks Animation</company>
+		</companies>
+		<length>92</length>
+		<web>http://www.kungfupanda.com/</web>
+		<long_re>It's the story about a lazy, irreverent slacker panda, named Po, who is the biggest fan of Kung Fu around...which doesn't exactly come in handy while working every day in his family's noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po's dreams become reality when he joins the world of Kung Fu and studies alongside his idols, the legendary Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- under the leadership of their guru, Master Shifu. But before they know it, the vengeful and treacherous snow leopard Tai Lung is headed their way, and it's up to Po to defend everyone from the oncoming threat. Can he turn his dreams of becoming a Kung Fu master into reality? Po puts his heart - and his girth - into the task, and the unlikely hero ultimately finds that his greatest weaknesses turn out to be his greatest strengths. </long_re>
+		<trailer>movielist/trailers/kung_fu_panda_2008_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Dark Knight</title>
+		<year>2008</year>
+		<rating>
+			<imdb>9.0</imdb>
+			<rotten>94</rotten>
+		</rating>
+		<poster>movielist/poster/the_dark_knight_2008_poster.jpg</poster>
+		<short>When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.  </short>
+		<date>26 January 2008</date>
+		<casts>
+			<cast>Christian Bale</cast>
+			<cast>Heath Ledger</cast>
+			<cast>Aaron Eckhart</cast>
+			<cast>Michael Caine</cast>
+		</casts>
+		<directors>
+			<director>Christopher Nolan</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros.</company>
+		</companies>
+		<length>152</length>
+		<web>http://www.thedarkknight.com/</web>
+		<long_re>Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to "confront everything he believes" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes. </long_re>
+		<trailer>movielist/trailers/the_dark_knight_2008_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Now You See Me</title>
+		<year>2013</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>70</rotten>
+		</rating>
+		<poster>movielist/poster/now_you_see_me_2013_poster.jpg</poster>
+		<short>An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.  </short>
+		<date>31 May 2013</date>
+		<casts>
+			<cast>Jesse Eisenberg</cast>
+			<cast>Mark Ruffalo</cast>
+			<cast>Woody Harrelson</cast>
+			<cast>Isla Fisher</cast>
+		</casts>
+		<directors>
+			<director>Louis Leterrier</director>
+		</directors>
+		<genres>
+			<genre>Crime</genre>
+			<genre>Mystery</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Lionsgate</company>
+		</companies>
+		<length>137</length>
+		<web>http://www.nowyouseeme.movie</web>
+		<long_re>Four magicians each answer a mysterious summons to an obscure address with secrets inside. A year later, they are the Four Horsemen, big time stage illusionists who climax their sold out Las Vegas show with a bank apparently robbed for real. This puts agents Dylan Rhodes of the FBI and Alma Dray of Interpol on the case to find out how they did it. However, this mystery proves difficult to solve even with the insights of the professional illusion exposer, Thaddeus Bradley. What follows is a bizarre investigation where nothing is what it seems with illusions, dark secrets and hidden agendas galore as all involved are reminded of a great truth in this puzzle: the closer you look, the less you see. </long_re>
+		<trailer>movielist/trailers/now_you_see_me_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Mama</title>
+		<year>2013</year>
+		<rating>
+			<imdb>6.2</imdb>
+			<rotten>55</rotten>
+		</rating>
+		<poster>movielist/poster/mama_2013_poster.jpg</poster>
+		<short>A young couple take in their two nieces only to suspect that a foreboding evil has latched itself to their family.  </short>
+		<date>18 January 2013</date>
+		<casts>
+			<cast>Jessica Chastain</cast>
+			<cast>Nikolaj Coster-Waldau</cast>
+			<cast>Megan Charpentier</cast>
+			<cast>Isabelle Nélisse</cast>
+		</casts>
+		<directors>
+			<director>Andrés Muschietti</director>
+		</directors>
+		<genres>
+			<genre>Fantasy</genre>
+			<genre>Horror</genre>
+		</genres>
+		<companies>
+			<company>Universal Pictures</company>
+		</companies>
+		<length>100</length>
+		<web>http://www.foxmovies.com/movies/mama</web>
+		<long_re>The senior partner of an investment brokerage, Jeffrey Desange, has a breakdown due to a financial collapse and kills several co-workers and his estranged wife. He then kidnaps his two young daughters, Victoria 3 and Lilly just 1. He drives his car recklessly through a winding snow covered road. He loses control of his car and drives off an embankment. He finds an abandoned and isolated cabin where he plans to kill his daughters, but the children are saved by a dark ghostly image. After five years of searching and depleting his savings, Jeffrey's twin brother, Lucas, finds the children that were raised without social interaction and claim that they have been raised by 'Mama'. Lucas disputes the custody with the children's Great Aunt but Dr. Dreyfuss, who is working with the girls, helps Lucas get custody of the girls so that he can still have access to them. Lucas, his girlfriend Annabel, Victoria and Lilly move into a house provided by the institute that Dr. Dreyfuss works for. Lucas...  </long_re>
+		<trailer>movielist/trailers/mama_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Stoker</title>
+		<year>2013</year>
+		<rating>
+			<imdb>6.8</imdb>
+			<rotten>60</rotten>
+		</rating>
+		<poster>movielist/poster/stoker_2013_poster.jpg</poster>
+		<short>After India's father dies, her Uncle Charlie, who she never knew existed, comes to live with her and her unstable mother. She comes to suspect this mysterious, charming man has ulterior motives and becomes increasingly infatuated with him. </short>
+		<date>01 March 2013</date>
+		<casts>
+			<cast>Mia Wasikowska</cast>
+			<cast>Nicole Kidman</cast>
+			<cast>David Alford</cast>
+			<cast>Matthew Goode</cast>
+			<cast>Peg Allen</cast>
+		</casts>
+		<directors>
+			<director>Chan-wook Park</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Fox Searchlight Pictures</company>
+		</companies>
+		<length>99</length>
+		<web>http://www.Stoker.com/</web>
+		<long_re>India Stoker was not prepared to lose her father and best friend Richard in a tragic auto accident. The solitude of her woodsy family estate, the peace of her tranquil town, and the unspoken somberness of her home life are suddenly upended by not only this mysterious accident, but by the sudden arrival of her Uncle Charlie, whom she never knew existed. When Charlie moves in with her and her emotionally unstable mother Evie, India thinks the void left by her father's death is finally being filled by his closest bloodline. Soon after his arrival, India comes to suspect that this mysterious, charming man has ulterior motives. Yet instead of feeling outrage or horror, this friendless young woman becomes increasingly infatuated with him.  </long_re>
+		<trailer>movielist/trailers/stoker_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>World War Z</title>
+		<year>2013</year>
+		<rating>
+			<imdb>7.0</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/world_war_z_2013_poster.jpg</poster>
+		<short>Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.  </short>
+		<date>21 June 2013</date>
+		<casts>
+			<cast>Brad Pitt</cast>
+			<cast>Mireille Enos</cast>
+			<cast>Daniella Kertesz</cast>
+			<cast>James Badge Dale</cast>
+		</casts>
+		<directors>
+			<director>J Marc Forster</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Horror</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Paramount Pictures</company>
+		</companies>
+		<length>116</length>
+		<web>https://web.facebook.com/worldwarz</web>
+		<long_re>Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls </long_re>
+		<trailer>movielist/trailers/world_war_z_2013_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Matrix Revolutions</title>
+		<year>2003</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>80</rotten>
+		</rating>
+		<poster>movielist/poster/the_matrix_revolutions_2003_poster.jpg</poster>
+		<short>The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith. </short>
+		<date>5 November 2003</date>
+		<casts>
+			<cast>Mary Alice</cast>
+			<cast>Tanveer K. Atwal</cast>
+			<cast>Helmut Bakaitis</cast>
+			<cast>Kate Beahan</cast>
+		</casts>
+		<directors>
+			<director>Lana Wachowski</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros</company>
+			<company>Village Roadshow Pictures</company>
+		</companies>
+		<length>129</length>
+		<web>http://www.warnerbros.com/thematrixrevolutions</web>
+		<long_re>Neo discovers that somehow he is able to use his powers in the real world too and that his mind can be freed from his body, as a result of which he finds himself trapped on a train station between the Matrix and the Real World. Meanwhile, Zion is preparing for the oncoming war with the machines with very little chances of survival. Neo's associates set out to free him from The Merovingian since it's believed that he is the One who will end the war between humans and the machines. What they do not know is that there is a threat from a third party, someone who has plans to destroy both the worlds.</long_re>
+		<trailer>movielist/trailers/the_matrix_revolutions_2003_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Hurt Locker</title>
+		<year>2008</year>
+		<rating>
+			<imdb>7.6</imdb>
+			<rotten>90</rotten>
+		</rating>
+		<poster>movielist/poster/the_hurt_locker_2008_poster.jpg</poster>
+		<short>During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work. </short>
+		<date>31 July 2009</date>
+		<casts>
+			<cast>Jeremy Renner</cast>
+			<cast>Anthony Mackie</cast>
+			<cast>Brian Geraghty</cast>
+			<cast>Guy Pearce</cast>
+		</casts>
+		<directors>
+			<director>Kathryn Bigelow</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>History</genre>
+			<genre>Thriller</genre>
+			<genre>War</genre>
+		</genres>
+		<companies>
+			<company>Voltage Pictures</company>
+		</companies>
+		<length>131</length>
+		<web>http://www.thehurtlocker.com</web>
+		<long_re>An intense portrayal of elite soldiers who have one of the most dangerous jobs in the world: disarming bombs in the heat of combat. When a new sergeant, James, takes over a highly trained bomb disposal team amidst violent conflict, he surprises his two subordinates, Sanborn and Eldridge, by recklessly plunging them into a deadly game of urban combat, behaving as if he's indifferent to death. As the men struggle to control their wild new leader, the city explodes into chaos, and James' true character reveals itself in a way that will change each man forever. </long_re>
+		<trailer>movielist/trailers/the_hurt_locker_2008_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Lord of the Rings: The Return of the King</title>
+		<year>2003</year>
+		<rating>
+			<imdb>8.9</imdb>
+			<rotten>80</rotten>
+		</rating>
+		<poster>movielist/poster/the_lord_of_the_rings_the_return_of_the_king_2003_poster.jpg</poster>
+		<short>Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring. </short>
+		<date>17 December 2003</date>
+		<casts>
+			<cast>Noel Appleby</cast>
+			<cast>Ali Astin</cast>
+			<cast>Sean Astin</cast>
+		</casts>
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>New Line Cinema</company>
+		</companies>
+		<length>201</length>
+		<web>http://www.thelordoftherings/thereturnoftheking/</web>
+		<long_re>While Frodo and Sam continue to approach Mount Doom to destroy the One Ring, unaware of the path Gollum is leading them, the former Fellowship aid Rohan and Gondor in a great battle in the Pelennor Fields, Minas Tirith and the Black Gates as Sauron wages his last war against Middle-earth. </long_re>
+		<trailer>movielist/trailers/the_lord_of_the_rings_the_return_of_the_king_2003_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>10,000 BC</title>
+		<year>2008</year>
+		<rating>
+			<imdb>5.1</imdb>
+			<rotten>37</rotten>
+		</rating>
+		<poster>movielist/poster/10000_BC_2008_poster.jpg</poster>
+		<short>A prehistoric epic that follows a young mammoth hunter's journey through uncharted territory to secure the future of his tribe. </short>
+		<date>07 March 2008</date>
+		<casts>
+			<cast>Steven Strait</cast>
+			<cast>Camilla Belle</cast>
+			<cast>Cliff Curtis</cast>
+			<cast>Joel Virgel</cast>
+		</casts>
+		<directors>
+			<director>Roland Emmerich</director>
+		</directors>
+		<genres>
+		    <genre>Action</genre>
+		    <genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+			<genre>History</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros.</company>
+		</companies>
+		<length>109</length>
+		<web>http://www.10000BC.com/</web>
+		<long_re>A prehistoric epic that follows a young mammoth hunter named D'Leh's journey through uncharted territory to secure the future of his tribe. When a band of mysterious horse-riding warlords raid the Yaghal camp and kidnaps his heart's desire - the beautiful Evolet along with many others, D'Leh is forced to lead a small group of hunters south to pursue the warlords to the end of the world to save her. Driven by destiny, the unlikely band of warriors must battle saber-toothed cats and terror birds in the Levant. </long_re>
+		<trailer>movielist/trailers/10000BC_2008_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>X-men:First Class</title>
+		<year>2011</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>86</rotten>
+		</rating>
+		<poster>movielist/poster/xmen_first_class_2011_poster.jpg</poster>
+		<short>In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.  </short>
+		<date> 3 June 2011</date>
+		<casts>
+			<cast>James McAvoy</cast>
+			<cast>Laurence Belcher</cast>
+			<cast>Michael Fassbender</cast>
+			<cast>Bill Milner</cast>
+		</casts>
+		<directors>
+			<director>Matthew Vaughn</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company> Twentieth Century Fox Film Corporation, Marvel Entertainment, Dune Entertainment</company>
+		</companies>
+		<length>132</length>
+		<web>https://web.facebook.com/xmenmovies</web>
+		<long_re>In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III. Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were archenemies, they were closest of friends, working together, with other Mutants (some familiar, some new), to stop the greatest threat the world has ever known. In the process, a rift between them opened, which began the eternal war between Magneto's Brotherhood and Professor X's X-MEN. </long_re>
+		<trailer>movielist/trailers/xmen_firstclass_2011_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Hugo</title>
+		<year>2011</year>
+		<rating>
+			<imdb>7.5</imdb>
+			<rotten>94</rotten>
+		</rating>
+		<poster>movielist/poster/hugo_2011_poster.jpg</poster>
+		<short>Hugo is an orphan boy living in the walls of a train station in 1930s Paris. He learned to fix clocks and other gadgets from his father and uncle which he puts to use keeping the train station clocks running.</short>
+		<date>23 November 2011</date>
+		<casts>
+			<cast>Ben Kingsley</cast>
+			<cast>Sacha Baron Cohen </cast>
+			<cast>Asa Butterfield</cast>
+		</casts>
+		<directors>
+			<director>Martin Scorsese</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Family</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>Paramount Pictures</company>
+			<company>GK Films</company>
+		</companies>
+		<length>126</length>
+		<web>https://www.facebook.com/HugoMovie</web>
+		<long_re>Hugo is an orphan boy living in the walls of a train station in 1930s Paris. He learned to fix clocks and other gadgets from his father and uncle which he puts to use keeping the train station clocks running. The only thing that he has left that connects him to his dead father is an automaton (mechanical man) that doesn't work without a special key. Hugo needs to find the key to unlock the secret he believes it contains. On his adventures, he meets George Melies, a shopkeeper, who works in the train station, and his adventure-seeking god-daughter. Hugo finds that they have a surprising connection to his father and the automaton, and he discovers it unlocks some memories the old man has buried inside regarding his past. </long_re>
+		<trailer>movielist/trailers/hugo_2011_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Mission:impossible-Ghost Protocol</title>
+		<year>2011</year>
+		<rating>
+			<imdb>7.4</imdb>
+			<rotten>94</rotten>
+		</rating>
+		<poster>movielist/poster/mission_impossible_ghost_protocol_2011_poster.jpg</poster>
+		<short>In the fourth installment of the Mission Impossible series, Ethan Hunt and a new team race against time to track down Hendricks, a dangerous terrorist who has gained access to Russian nuclear launch codes and is planning a strike on the United States.</short>
+		<date> 21 December 2011</date>
+		<casts>
+			<cast>Jeremy Renner</cast>
+			<cast>Michael Nyqvist</cast>
+			<cast>Léa Seydoux</cast>
+		</casts>
+		<directors>
+			<director>Brad Bird</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Paramount Pictures</company>
+			<company>Skydance Productions</company>
+			<company>TC Productions</company>
+		</companies>
+		<length>133</length>
+		<web>https://www.facebook.com/missionimpossiblemovie</web>
+		<long_re>In the fourth installment of the Mission Impossible series, Ethan Hunt and a new team race against time to track down Hendricks, a dangerous terrorist who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt by the team to stop him at the Kremlin ends in a disaster, with an explosion causing severe damage to the Kremlin and the IMF being implicated in the bombing, forcing the President to invoke Ghost Protocol, under which the IMF is disavowed, and will be offered no help or backup in any form. Undaunted, Ethan and his team chase Hendricks to Dubai, and from there to Mumbai, but several spectacular action sequences later, they might still be too late to stop a disaster.</long_re>
+		<trailer>movielist/trailers/mission_impossible_ghost_protocol_2011_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>War Horse</title>
+		<year>2011</year>
+		<rating>
+			<imdb>7.2</imdb>
+			<rotten>90</rotten>
+		</rating>
+		<poster>movielist/poster/war_horse_2011_poster.jpg</poster>
+		<short>Albert Narracott (Jeremy Irvine) is a young man living in Dartmoor in 1914. His father (Peter Mullan) buys a thoroughbred horse when he should have plough because of his rift with his landlord (David Thewlis).</short>
+		<date> 25 December 2011</date>
+		<casts>
+			<cast>Jeremy Irvine</cast>
+			<cast>Peter Mullan</cast>
+			<cast>Emily Watson</cast>
+		</casts>
+		<directors>
+			<director>Steven Spielberg</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>History</genre>
+		</genres>
+		<companies>
+			<company>DreamWorks SKG</company>
+			<company>Reliance Entertainment</company>
+			<company>Amblin Entertainment</company>
+		</companies>
+		<length>146</length>
+		<web>http://www.dreamworksstudios.com/films/war-horse</web>
+		<long_re>Albert is able to break in the horse who he names Joey and he shows to be a very special horse, strong, determined, loyal and intelligence. But when World War I breaks out, Joey is sold to a British office, Captain Nicholls (Tom Hiddleston) and during the course of the conflict the horse see all aspects, from a Calvary horse, in rural civilian life for a French girl suffering Hollywood's disease (i.e. they say she is dying but seems perfectly healthy), as a German work horse and in no man's land. Spielberg has a good track record making historical films with Schindler's List, Saving Private Ryan and Empire of the Sun. War Horse is a solid film rather then being a great film. It is a film that is rich in period detail, showing the brutal nature of World War I, from the effects of chemical warfare and you feel the muddy, dirty environment as horses pull a giant artillery battery up a hill and Spielberg knows how to make a mundane scene of a horse ploughing a field exciting and emotional (it must be the most boring village in the world for watching a horse ploughing to be considered entertainment). But at the same time there are also some problems, particularly Spielberg's reliance on cutesy humour, from a goose who chases people to a scene in the trenches. I would not be surprise if Richard Curtis was partially responsible. The film is too long and many scenes could have been shorten or cut, particularly in the beginning. I think the relationship and love between Albert and Joey could have easily have been done in half the time.</long_re>
+		<trailer>movielist/trailers/war_horse_2011_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Lord of the Rings:The Fellowship of the Ring</title>
+		<year>2001</year>
+		<rating>
+			<imdb>8.8</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/the_lord_of_the_rings_the_fellowship_of_the_ring_2001_poster.jpg</poster>
+		<short>An ancient Ring thought lost for centuries has been found, and through a strange twist in fate has been given to a small Hobbit named Frodo. </short>
+		<date> 19 December 2001</date>
+		<casts>
+			<cast>Elijah Wood</cast>
+			<cast>Ian McKellen</cast>
+			<cast>Orlando Bloom</cast>
+		</casts>
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company>New Line Cinema</company>
+			<company>WingNut Films</company>
+			<company>The Saul Zaentz Company</company>
+		</companies>
+		<length>178</length>
+		<web>https://www.facebook.com/lordoftheringstrilogy</web>
+		<long_re>When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it! However he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir and his three Hobbit friends Merry, Pippin and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign! </long_re>
+		<trailer>movielist/trailers/the_lord_of_the_rings_the_fellowship_of_the_ring_2001_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Monsters,Inc.</title>
+		<year>2001</year>
+		<rating>
+			<imdb>8.1</imdb>
+			<rotten>96</rotten>
+		</rating>
+		<poster>movielist/poster/monsters_2001_poster.jpg</poster>
+		<short>In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think. </short>
+		<date>2 November 2001</date>
+		<casts>
+			<cast>John Goodman</cast>
+			<cast>Billy Crystal</cast>
+			<cast>Mary Gibbs</cast>
+		</casts>
+		<directors>
+			<director>Pete Docter, David Silverman</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Fantasy</genre>
+		</genres>
+		<companies>
+			<company> Walt Disney Pictures, Pixar Animation Studios </company>
+		</companies>
+		<length>92</length>
+		<web>http://movies.disney.com/monsters-inc</web>
+		<long_re>A city of monsters with no humans called Monstropolis centers around the city's power company, Monsters, Inc. The lovable, confident, tough, furry blue behemoth-like giant monster named James P. Sullivan (better known as Sulley) and his wisecracking best friend, short, green cyclops monster Mike Wazowski, discover what happens when the real world interacts with theirs in the form of a 2-year-old baby girl dubbed "Boo," who accidentally sneaks into the monster world with Sulley one night. And now it's up to Sulley and Mike to send Boo back in her door before anybody finds out, especially two evil villains such as Sulley's main rival as a scarer, chameleon-like Randall (a monster that Boo is very afraid of), who possesses the ability to change the color of his skin, and Mike and Sulley's boss Mr. Waternoose, the chairman and chief executive officer of Monsters, Inc. </long_re>
+		<trailer>movielist/trailers/monsters_2001_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Sprited Away</title>
+		<year>2006</year>
+		<rating>
+			<imdb>8.5</imdb>
+			<rotten>76</rotten>
+		</rating>
+		<poster>movielist/poster/spirited_away_2001_poster.jpg</poster>
+		<short>During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts. </short>
+		<date>28 March 2003</date>
+		<casts>
+			<cast>Rumi Hiiragi</cast>
+			<cast>Miyu Irino</cast>
+			<cast>Mari Natsuki</cast>
+			<cast>Takashi Naitô</cast>
+		</casts>
+		<directors>
+			<director>Hayao Miyazaki</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Adventure</genre>
+			<genre>Family</genre>			
+		</genres>
+		<companies>
+			<company>Tokuma Shoten</company>
+			<company>Studio Ghibli</company>
+			<company>Nippon Television Network (NTV)</company>
+		</companies>
+		<length>125</length>
+		<web>http://movies.disney.com/spirited-away</web>
+		<long_re>Chihiro and her parents are moving to a small Japanese town in the countryside, much to Chihiro's dismay. On the way to their new home, Chihiro's father makes a wrong turn and drives down a lonely one-lane road which dead-ends in front of a tunnel. Her parents decide to stop the car and explore the area. They go through the tunnel and find an abandoned amusement park on the other side, with its own little town. When her parents see a restaurant with great-smelling food but no staff, they decide to eat and pay later. However, Chihiro refuses to eat and decides to explore the theme park a bit more. She meets a boy named Haku who tells her that Chihiro and her parents are in danger, and they must leave immediately. She runs to the restaurant and finds that her parents have turned into pigs. In addition, the theme park turns out to be a town inhabited by demons, spirits, and evil gods. At the center of the town is a bathhouse where these creatures go to relax. The owner of the bathhouse </long_re>
+		<trailer>movielist/trailers/spirited_away_2001_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Prestige</title>
+		<year>2001</year>
+		<rating>
+			<imdb>8.6</imdb>
+			<rotten>97</rotten>
+		</rating>
+		<poster>movielist/poster/the_prestige_2006_poster.jpg</poster>
+		<short>Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.In the end of the Nineteenth Century, in London, Robert Angier, his beloved wife Julia McCullough and Alfred Borden are friends and assistants of a magician.  </short>
+		<date>20 October 2006</date>
+		<casts>
+			<cast> Hugh Jackman</cast>
+             <cast>Christian Bale</cast>
+             <cast>Michael Caine</cast>
+             <cast>Piper Perabo </cast>
+		</casts>
+		<directors>
+			<director>Christopher Nolan</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Thriller</genre>
+		</genres>
+		<companies>
+			<company>Touchstone Pictures</company>
+			<company>Warner Bros.</company>
+			<company>Newmarket Productions</company>
+		</companies>
+		<length>130</length>
+		<web>http://wwws.warnerbros.fr/theprestige/</web>
+		<long_re>In the end of the Nineteenth Century, in London, Robert Angier, his beloved wife Julia McCullough and Alfred Borden are friends and assistants of a magician. When Julia accidentally dies during a performance, Robert blames Alfred for her death and they become enemies. Both become famous and rival magicians, sabotaging the performance of the other on the stage. When Alfred performs a successful trick, Robert becomes obsessed trying to disclose the secret of his competitor with tragic consequences. </long_re>
+		<trailer>movielist/trailers/the_prestige_2006_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Departed</title>
+		<year>2006</year>
+		<rating>
+			<imdb>8.5</imdb>
+			<rotten>91</rotten>
+		</rating>
+		<poster>movielist/poster/the_departed_2006_poster.jpg</poster>
+		<short>An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston. </short>
+		<date>6 October 2006</date>
+		<casts>
+			<cast>Leonardo DiCaprio</cast>
+            <cast>Matt Damon</cast>
+			<cast>Jack Nicholson</cast>
+		</casts>
+		<directors>
+			<director>Martin Scorsese</director>
+		</directors>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
+			<genre>Crime</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros</company>
+			<company>Plan B Entertainment</company>
+			<company>Initial Entertainment Group (IEG)</company>
+		</companies>
+		<length>151</length>
+		<web>https://web.facebook.com/TheDepartedMovie</web>
+		<long_re>In South Boston, the state police force is waging war on Irish-American organized crime. Young undercover cop Billy Costigan (Leonardo DiCaprio) is assigned to infiltrate the mob syndicate run by gangland chief Frank Costello (Jack Nicholson). While Billy quickly gains Costello's confidence, Colin Sullivan (Matt Damon), a hardened young criminal who has infiltrated the state police as an informer for the syndicate is rising to a position of power in the Special Investigation Unit. Each man becomes deeply consumed by their double lives, gathering information about the plans and counter-plans of the operations they have penetrated. But when it becomes clear to both the mob and the police that there is a mole in their midst, Billy and Colin are suddenly in danger of being caught and exposed to the enemy - and each must race to uncover the identity of the other man in time to save themselves. But is either willing to turn on their friends and comrades they've made during their long stints</long_re>
+		<trailer>movielist/trailers/the_departed_2006_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>The Incredibles</title>
+		<year>2004</year>
+		<rating>
+			<imdb>8</imdb>
+			<rotten>97%</rotten>
+		</rating>
+		<poster>movielist/poster/the_incredibles_2004_poster.jpg</poster>
+		<short>About a family in which each family member has a supernatural power </short>
+		<date>27 October,2004</date>
+		<casts>
+			<cast>Sarah Vowell</cast>
+			<cast>Craig T.Nelson</cast>
+		</casts>
+		<directors>
+			<director>Brad Bird</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Family</genre>
+		</genres>
+		<companies>
+			<company>Pixar Animation Studios</company>
+			<company>Walt Disney Pictures</company>
+		</companies>
+		<length>115</length>
+		<web>http://www.disney.co.uk/the-incredibles/</web>
+		<long_re>In superhero family,daddy and mommy is caught by a devil hero. So, their son and daughter try to rescue them.</long_re>
+		<trailer>movielist/trailers/the_incredibles_2004_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Spider Man 2</title>
+		<year>2004</year>
+		<rating>
+			<imdb>7.3</imdb>
+			<rotten>83%</rotten>
+		</rating>
+		<poster>movielist/poster/spider_man_2_2004_poster.jpg</poster>
+		<short>The sequal to Spider-Man 1.The battle between spider-man and Dr.Otto Octavius.</short>
+		<date>25 June,2004</date>
+		<casts>
+			<cast>Tobey Maguire</cast>
+			<cast>Kirsten Dunst</cast>
+		</casts>
+		<directors>
+			<director>Sam Raimi</director>
+		</directors>
+		<genres>
+			<genre>Action</genre>
+			<genre>Sci-Fic</genre>
+		</genres>
+		<companies>
+			<company>Marvel Enterprises</company>
+		</companies>
+		<length>127</length>
+		<web>www.imdb.com/title/tt0316654</web>
+		<long_re>When a failed nuclear fusion experiment results in an explosion that kill his wife Dr.Otto Octavius is transformed into Dr.Octopus, a cyborg with deadly metal tentacles.Doc Ock blames Spider-Man for the accident.</long_re>
+		<trailer>movielist/trailers/spider_man_2_2004_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Harry Potter and the Prisoner of Azkaban</title>
+		<year>2004</year>
+		<rating>
+			<imdb>7.8</imdb>
+			<rotten>91%</rotten>
+		</rating>
+		<poster>movielist/poster/harry_potter_and_the_prisoner_of_azkaban_2004_poster.jpg</poster>
+		<short>It's Harry's third year at Hogwarts; not only does he have a new "Defense Against the Dark Arts" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry. </short>
+		<date>4 June 2004</date>
+		<casts>
+			<cast>Daniel Radcliffe</cast>
+			<cast>Emma Watson</cast>
+			<cast>Rupert Grint</cast>
+		</casts>
+		<directors>
+			<director>Alfonso Cuaron</director>
+		</directors>
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Fantasy</genre>
+			<genre>Mystery</genre>
+		</genres>
+		<companies>
+			<company>Warner Bros. Pictures</company>
+		</companies>
+		<length>142</length>
+		<web>http://www.harrypotterwizardscollection.com/</web>
+		<long_re>Harry Potter is having a tough time with his relatives (yet again). He runs away after using magic to inflate Uncle Vernon's sister Marge who was being offensive towards Harry's parents. Initially scared for using magic outside the school, he is pleasantly surprised that he won't be penalized after all. However, he soon learns that a dangerous criminal and Voldemort's trusted aide Sirius Black has escaped from the Azkaban prison and wants to kill Harry to avenge the Dark Lord. To worsen the conditions for Harry, vile creatures called Dementors are appointed to guard the school gates and inexplicably happen to have the most horrible effect on him. Little does Harry know that by the end of this year, many holes in his past (whatever he knows of it) will be filled up and he will have a clearer vision of what the future has in store.</long_re>
+		<trailer>movielist/trailers/harry_potter_and_the_prisoner_of_azkaban_2004_trailer.mp4</trailer>
+	</movie>
+	<movie>
+		<title>Shrek 2</title>
+		<year>2004</year>
+		<rating>
+			<imdb>7.2</imdb>
+			<rotten>88</rotten>
+		</rating>
+		<poster>movielist/poster/sherk_2_2004_poster.jpg</poster>
+		<short>Princess Fiona's parents invite her and Shrek to dinner to celebrate her marriage. If only they knew the newlyweds were both ogres. </short>
+		<date>19 May 2004</date>
+		<casts>
+			<cast>Mike Myers</cast>
+			<cast>Eddie Murphy</cast>
+			<cast>Cameron Diaz</cast>
+		</casts>
+		<directors>
+			<director>Andrew Adamson</director>
+			<director>Kelly Asbury</director>
+		</directors>
+		<genres>
+			<genre>Animation</genre>
+			<genre>Fantasy</genre>
+			<genre>Comedy</genre>
+		</genres>
+		<companies>
+			<company>DreamWorks Animation</company>
+		</companies>
+		<length>93</length>
+		<web>http://www.imdb.com/title/tt0298148/</web>
+		<long_re>Shrek has rescued Princess Fiona, got married, and now is time to meet the parents. Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. It's not just the family who are unhappy. Prince Charming returns from a failed attempt at rescuing Fiona, and works alongside his mother, the Fairy Godmother, to try and find a way to get Shrek away from Fiona. </long_re>
+		<trailer>movielist/trailers/sherk_2_2004_trailer.mp4</trailer>
+	</movie>
+</movies>

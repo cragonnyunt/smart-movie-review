@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<base href="">
+		<title>News - Smart Movie Review - Review for every movies</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="css/jquery-ui.min.css">
+		<link rel="stylesheet" href="css/jquery-ui.structure.min.css">
+		<link rel="stylesheet" href="css/jquery-ui.theme.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<script src="js/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script src="js/javascript.js"></script>
+		<script type="text/javascript">
+			function New(title,time,picture,desc,linkweb)
+			{
+				this.title=title;
+				this.time=time;
+				this.desc=desc;
+				this.picture=picture;
+				this.linkweb=linkweb;
+			}
+			
+			New.prototype.getNewTable = function()
+			{
+				var rowDIV = $('<div>');
+				rowDIV.addClass('row');
+				
+				var header = $('<h3>');
+				header.append(this.title);
+				header.appendTo(rowDIV);
+				
+				var time = $('<p>');
+				time.addClass('pull-left');
+				var span = $('<span>');
+				span.css('color', 'blue');
+				span.append(this.time);
+				span.appendTo(time);
+				time.appendTo(rowDIV);
+				
+				var linkText = $('<p>');
+				linkText.addClass('pull-right');
+				var link = $('<a>');
+				link.attr('href', 'http://' + this.linkweb);
+				link.attr('target', '_blank');
+				link.append(this.linkweb);
+				link.appendTo(linkText);
+				linkText.appendTo(rowDIV);
+				
+				$('<br>').appendTo(rowDIV);
+				
+				var desc = $('<div>');
+				desc.addClass('row');
+				desc.css('clear', 'both');
+				
+				var descImg = $('<div>');
+				descImg.addClass('col-md-3');
+				var descImgImg = $('<img>');
+				descImgImg.addClass('img-thumbnail');
+				descImgImg.attr('src', this.picture);
+				descImgImg.appendTo(descImg);
+				descImg.appendTo(desc);
+				
+				var descText = $('<div>');
+				descText.addClass('col-md-9');
+				var descTextText = $('<p>');
+				descTextText.addClass('text-justify');
+				descTextText.append(this.desc);
+				descTextText.appendTo(descText);
+				descText.appendTo(desc);
+				
+				desc.appendTo(rowDIV);
+				
+				return rowDIV;
+			}
+		</script>
+	</head>
+	<body>
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="index.html">Smart Movie Review Channel</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav">
+						<li><a href="../SmartMovieReview">Home</a></li>
+						<li class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Movies <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="movielist/movies.html#genre=QWN0aW9u">Action</a></li>
+								<li><a href="movielist/movies.html#genre=QWR2ZW50dXJl">Adventure</a></li>
+								<li><a href="movielist/movies.html#genre=QW5pbWF0aW9u">Animation</a></li>
+								<li><a href="movielist/movies.html#genre=Q29tZWR5">Comedy</a></li>
+								<li><a href="movielist/movies.html#genre=Q3JpbWU=">Crime</a></li>
+								<li><a href="movielist/movies.html#genre=RHJhbWE=">Drama</a></li>
+								<li><a href="movielist/movies.html#genre=RmFtaWx5">Family</a></li>
+								<li><a href="movielist/movies.html#genre=RmFudGFzeQ==">Fantasy</a></li>
+								<li><a href="movielist/movies.html#genre=SGlzdG9yeQ==">History</a></li>
+								<li><a href="movielist/movies.html#genre=SG9ycm9y">Horror</a></li>
+								<li><a href="movielist/movies.html#genre=TXlzdGVyeQ==">Mystery</a></li>
+								<li><a href="movielist/movies.html#genre=Um9tYW5jZQ==">Romance</a></li>
+								<li><a href="movielist/movies.html#genre=U2NpLUZp">Sci-Fi</a></li>
+								<li><a href="movielist/movies.html#genre=VGhyaWxsZXI=">Thriller</a></li>
+								<li><a href="movielist/movies.html#genre=V2VzdGVybg==">Western</a></li>
+								<li class="divider"></li>
+								<li><a href="movielist/movies.html">Browse all movies</a></li>
+							</ul>
+						</li>
+						<li class="active"><a href="news.html">News</a></li>
+						<li><a href="contactus.html">Contact Us</a></li>
+						<li><a href="aboutus.html">About Us</a></li>
+					</ul>
+					<form role="search" name="form0" onsubmit="return search_movie(this);" class="navbar-form navbar-right">
+						<div class="input-group input-group-sm">
+							<input type="text" name="txtSearch" id="txtSearch" class="form-control" placeholder="Search Movie" required>
+							<span class="input-group-btn">
+								<button class="btn btn-info" type="submit">
+									<span class="glyphicon glyphicon-search"></span>
+								</button>
+							</span>
+						</div>
+					</form>
+				</div>
+			</div>
+		</nav>
+		<div class="container-fluid">
+			<div id="mainbody">
+				<ul class="breadcrumb">
+					<li><a href="../../SmartMovieReview">Home</a></li>
+					<li class="active">News</li>
+				</ul>
+				<div class="page-header">
+					<h2>News</h2>
+				</div>
+				<div class="container-fluid" id="news_container">
+				</div>
+				<script>
+					$(document).ready(function(){
+						var newList = new Array();
+
+						newList[0] = new New();
+						newList[0].title = "'Suicide Squad' Shoots Down August Record with $135 Million Opening";
+						newList[0].time = "24 hours ago";
+						newList[0].linkweb="boxofficemojo.com";
+						newList[0].picture = "images/news/newimage1.jpg";
+						newList[0].desc = "For the third time this year a superhero movie has broken an opening weekend record and with it a continuing trend that finds the previous week's box office champion suffering a hefty second weekend drop. This time around it's Warner Bros' Suicide Squad decimating the previous August opening";
+		
+						newList[1] = new New();
+						newList[1].title ="Tom Cruise Pushed Back, Gets New Title";
+						newList[1].time = "23 hours ago ";
+						newList[1].linkweb="varietyfilm.com";
+						newList[1].picture = "images/news/newimage2.jpg";
+						newList[1].desc = "Tom Cruise cartel film Mena is now called American Made and is moving from Jan. 6, 2017, to Sept. 29, 2017, Universal Pictures announced on Monday.American Made is the latest collaboration between Cruise and director Doug Liman, who helmed the A-lister in Edge of Tomorrow.";  
+									 
+						newList[2] = new New();
+						newList[2].title ="Dario Argento isn't impressed with this 'Suspiria' remake ";
+						newList[2].time = "just now  ";
+						newList[2].linkweb="www.Hitfix.com";
+						newList[2].picture = "images/news/newimage3.jpg";
+						newList[2].desc = "I remain intrigued by director Luca Guadagnino's planned remake of Suspiria, mostly because the Bigger Splash and I Am Love helmer seems to have a real personal investment in the material. As the filmmaker told me back in May,It's something that speaks much about my childhood, that movie...I saw the poster when I was ten and I was mesmerized by it.";
+						
+						newList[3] = new New();
+						newList[3].title ="Trump Hotel Blackballed Ahead of Toronto Film Festival";
+						newList[3].time = "21 minutes ago  ";
+						newList[3].linkweb="www.wrap.com";
+						newList[3].picture = "images/news/newimage4.jpg";
+						newList[3].desc = "Hollywood is making its displeasure with Donald Trump known by blackballing one of the hotels that bears his name. With the Toronto International Film Festival less than a month away, the cityâ€™s Trump International Hotel is hemorrhaging Hollywood business. Interest in hosting festival events has fallen off, and the hotel â€” which is not actually owned by Trump â€” is losing functions it had already booked, one individual familiar with the exodus told TheWrap. Though the hotels are not personally owned by the Republican candidate and his family, Donald and his children Ivanka, Eric and Donald Jr. do license and manage them. ";
+						
+						newList[4] = new New();
+						newList[4].title ="Taran Killam Talks His SNL Ouster: 'I Honestly Don't Know What Happened'";
+						newList[4].time = "21 hours ago  ";
+						newList[4].linkweb="www.tvline.com";
+						newList[4].picture = "images/news/newimage5.jpg";
+						newList[4].desc = " If you are looking for a reason that Taran Killam was let go from Saturday Night Live well before the end of his contract, dont expect him to be able to explain it to you.As TVLine exclusively reported Monday, neither Killam nor fellow Not Ready for Primetime Player Jay Pharoah will be part of the seriesâ€™ cast when Season 42 premieres later this year.Killam recently told Uproxx that NBCâ€™s long-running late-night series decided not to pick up the final year of his seven-season contract, but heâ€™s not sure why.";
+						
+						newList[5] = new New();
+						newList[5].title ="Robert De Niro & Julianne Moore To Topline David O. Russell TV Series";
+						newList[5].time = "23 hours ago";
+						newList[5].linkweb="www.deadline.com";
+						newList[5].picture = "images/news/newimage6.jpg";
+						newList[5].desc = "This is a hot TV package that is yet to hit the marketplace but already has the town buzzing. I have learned that David O. Russell is behind a drama series project, which has Oscar winners Robert De Niro and Julianne Moore attached to star. Details about the show are sketchy, but I hear it is a crime/cop thriller that may be set in the 1990s. It is unclear whether it would be a regular or limited series but I hear it is designed to run multiple seasons.";  
+																				 
+						var i;
+						for ( i = 0; i < newList.length; i++) {
+							$('#news_container').append(newList[i].getNewTable());
+						}
+					});
+				</script>
+			</div>
+		</div>
+		<hr/>
+		<footer class="container-fluid" style="background: black;">
+			<div class="container-fluid" style="width: 80%; margin: auto;">
+				<div id="footerImg">
+					<h4><a href="index.html">Smart Movie Review Channel</a></h4>
+				</div>
+				<div id="footerMenu" class="text-right">
+					<a href="index.html">Home</a> |
+					<a href="movielist/movies.html">Movies</a> |
+					<a href="news.html">News</a> |
+					<a href="contactus.html">Contact Us</a> |
+					<a href="aboutus.html">About Us</a>
+				</div>
+				<div id="footerText">
+					<p class="text-justify">Smart Movie Review Channel is optimized for viewing, finding and writing movies and film. Site's Information is constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.</p>
+					<p class="text-center">Copyright 1999-2016 by University of Information Technology (UIT). All Rights Reserved.</p>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

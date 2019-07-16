@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<base href="..">
+		<title>Smart Movie Review - Review for every movies</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="css/jquery-ui.min.css">
+		<link rel="stylesheet" href="css/jquery-ui.structure.min.css">
+		<link rel="stylesheet" href="css/jquery-ui.theme.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/javascript.js"></script>
+		<script>		
+			function onGenreChange(genre) {
+				window.location.replace('movielist/movies.html#genre=' + btoa(genre));
+				window.location.reload();
+			}
+			
+			function year_filter(year_value) {
+				if(year_value != null) {
+					var rex = new RegExp(year_value, 'i');
+					$('.searchable tr').filter(function () {
+						return !rex.test($(this).get(0).cells[0].textContent);
+					}).hide();
+				}
+			}
+			
+			function imdb_filter(imdb_value) {
+				if(imdb_value != null) {
+					imdb_value = parseInt(imdb_value);
+					$('.searchable tr').filter(function () {
+						var imdb = parseFloat($(this).get(0).cells[2].textContent);
+						return imdb < imdb_value;
+					}).hide();
+				}
+			}
+			
+			function rotten_filter(rotten_value) {
+				if(rotten_value != null) {
+					rotten_value = parseInt(rotten_value);
+					$('.searchable tr').filter(function () {
+						var rotten = parseInt($(this).get(0).cells[3].textContent);
+						return rotten < rotten_value;
+					}).hide();
+				}
+			}
+			
+			$(document).ready(function() {
+				var select_year = document.getElementById('filter_year');
+				for(var i = 2016; i > 2000; i--) {
+					var opt = document.createElement('option');
+					var opt_text = document.createTextNode(i);
+					opt.appendChild(opt_text);
+					select_year.appendChild(opt);
+				}
+				select_year.selectedIndex = 0;
+				
+				var select_imdb = document.getElementById('filter_imdb');
+				for(var i = 9; i > 0; i--) {
+					var opt = document.createElement('option');
+					var opt_text = document.createTextNode(i + '+');
+					opt.appendChild(opt_text);
+					select_imdb.appendChild(opt);
+				}
+				select_imdb.selectedIndex = 0;
+				
+				var select_rotten = document.getElementById('filter_rotten_tomatoe');
+				for(var i = 90; i > 0; i -= 10) {
+					var opt = document.createElement('option');
+					var opt_text = document.createTextNode(i + '+');
+					opt.appendChild(opt_text);
+					select_rotten.appendChild(opt);
+				}
+				select_rotten.selectedIndex = 0;
+				
+				$('#filter').click(function () {
+					setTimeout(function () {
+						$('.searchable tr').show();
+					
+						var yearValueSelected = $('#filter_year').val();
+						var imdbValueSelected = $('#filter_imdb').val();
+						var rottenValueSelected = $('#filter_rotten_tomatoe').val();
+						
+						if(yearValueSelected == null && imdbValueSelected == null && rottenValueSelected == null) {
+							alert('Select at least one filter');
+							return false;
+						}
+						
+						year_filter(yearValueSelected);
+						imdb_filter(imdbValueSelected);
+						rotten_filter(rottenValueSelected);
+						
+						return true;
+					}, 200);
+				});
+				
+				$('#reset').click(function() {
+					setTimeout(function () {
+						$('.searchable tr').show();
+						$('#filter_year option:eq(0)').prop('selected', true);
+						$('#filter_imdb option:eq(0)').prop('selected', true);
+						$('#filter_rotten_tomatoe option:eq(0)').prop('selected', true);
+					}, 200);
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="../SmartMovieReview">Smart Movie Review Channel</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav">
+						<li><a href="../SmartMovieReview">Home</a></li>
+						<li class="dropdown active">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Movies <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="javascript:onGenreChange('Action')">Action</a></li>
+								<li><a href="javascript:onGenreChange('Adventure')">Adventure</a></li>
+								<li><a href="javascript:onGenreChange('Animation')">Animation</a></li>
+								<li><a href="javascript:onGenreChange('Comedy')">Comedy</a></li>
+								<li><a href="javascript:onGenreChange('Crime')">Crime</a></li>
+								<li><a href="javascript:onGenreChange('Drama')">Drama</a></li>
+								<li><a href="javascript:onGenreChange('Family')">Family</a></li>
+								<li><a href="javascript:onGenreChange('Fantasy')">Fantasy</a></li>
+								<li><a href="javascript:onGenreChange('History')">History</a></li>
+								<li><a href="javascript:onGenreChange('Horror')">Horror</a></li>
+								<li><a href="javascript:onGenreChange('Mystery')">Mystery</a></li>
+								<li><a href="javascript:onGenreChange('Romance')">Romance</a></li>
+								<li><a href="javascript:onGenreChange('Sci-Fi')">Sci-Fi</a></li>
+								<li><a href="javascript:onGenreChange('Thriller')">Thriller</a></li>
+								<li><a href="javascript:onGenreChange('Western')">Western</a></li>
+								<li class="divider"></li>
+								<li><a href="movielist/movies.html">Browse all movies</a></li>
+							</ul>
+						</li>
+						<li><a href="news.html">News</a></li>
+						<li><a href="contactus.html">Contact Us</a></li>
+						<li><a href="aboutus.html">About Us</a></li>
+					</ul>
+					<form role="search" name="form0" onsubmit="return search_movie(this);" class="navbar-form navbar-right">
+						<div class="input-group input-group-sm">
+							<input type="text" name="txtSearch" id="txtSearch" class="form-control" placeholder="Search Movie" required>
+							<span class="input-group-btn">
+								<button class="btn btn-info" type="submit">
+									<span class="glyphicon glyphicon-search"></span>
+								</button>
+							</span>
+						</div>
+					</form>
+				</div>
+			</div>
+		</nav>
+		<div class="container-fluid">
+			<div id="mainbody">
+				<ul class="breadcrumb">
+					<li><a href="../SmartMovieReview">Home</a></li>
+					<li class="active">Movies</li>
+				</ul>
+				<div class="page-header">
+					<h2><span id="movie_type">All Movies</span></h2>
+				</div>
+				<div class="container-fluid">
+					<div class="col-md-3">
+						<div class="input-group"> 
+							<span class="input-group-addon">Year</span>
+							<select class="form-control" id="filter_year">
+								<option disabled selected>Select year</option>
+							</select>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="input-group"> 
+							<span class="input-group-addon">IMDB</span>
+							<select class="form-control" id="filter_imdb">
+								<option selected disabled>Select IMDB</option>
+							</select>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="input-group"> 
+							<span class="input-group-addon">Rotten Tomatoe</span>
+							<select class="form-control" id="filter_rotten_tomatoe">
+								<option selected disabled>Select Rotten Tomatoe</option>
+							</select>
+						</div>
+					</div>
+					<div class="col-md-1">
+						<button class="btn btn-primary" type="button" id="filter">Filter</button>
+					</div>
+					<div class="col-md-1">
+						<button class="btn btn-default" type="button" id="reset">Reset</button>
+					</div>
+					<table class="table table-stripped table-hover" id="tb">
+						<thead>
+							<tr>
+								<th class="hidden">Year</th>
+								<th>Name</th>
+								<th>IMDB</th>
+								<th>Rotten Tomatoe</th>
+							</tr>
+						</thead>
+						<tbody class="searchable">
+						</tbody>
+					</table>
+					<script>
+						function isAll() {
+							var title = window.location.hash;
+							return title == "";
+						}
+					
+						function getHash(hash) {
+							var title = window.location.hash;
+							if(title.startsWith(hash)) {
+								return decodeURIComponent(title.substr(hash.length + 1));
+							}
+							else {
+								return "";
+							}
+						}
+												
+						function displayMovies(movie) {
+							var title = movie.find('title').text();
+							var year = movie.find('year').text();
+							var imdb = parseFloat(movie.find('rating').find('imdb').text());
+							imdb = (Math.round(imdb * 10) / 10).toFixed(1);
+							var rotten = parseInt(movie.find('rating').find('rotten').text());
+							
+							var link = $('<a>');
+							link.attr('href', 'movielist/movieReview.html#title=' + btoa(encodeURIComponent(title)) + '%26year=' + btoa(encodeURIComponent(year)));
+							link.append(title + ' (' + year + ')');
+							
+							var imdbNode = $('<span>');
+							imdbNode.addClass('label');
+							if(isNaN(imdb))
+								imdbNode.addClass('label-primary');
+							else if (imdb >= 0.0 && imdb < 4.0)
+								imdbNode.addClass('label-danger');
+							else if (imdb >= 4.0 && imdb < 6.0)
+								imdbNode.addClass('label-warning');
+							else
+								imdbNode.addClass('label-success');
+							imdbNode.append(imdb);
+							
+							var rottenNode = $('<span>');
+							rottenNode.addClass('label');
+							if(isNaN(rotten))
+								rottenNode.addClass('label-primary');
+							else if (rotten >= 0 && rotten < 40)
+								rottenNode.addClass('label-danger');
+							else if (rotten >= 40 && rotten < 60)
+								rottenNode.addClass('label-warning');
+							else
+								rottenNode.addClass('label-success');
+							rottenNode.append(rotten);
+							
+							var _tr = $('<tr>');
+							var _td_year = $('<td>');
+							_td_year.addClass('hidden');
+							_td_year.append(year);
+							_td_year.appendTo(_tr);
+							var _td_link = $('<td>');
+							_td_link.append(link);
+							_td_link.appendTo(_tr);
+							var _td_imdb = $('<td>');
+							_td_imdb.append(imdbNode);
+							_td_imdb.appendTo(_tr);
+							var _td_rotten = $('<td>');
+							_td_rotten.append(rottenNode);
+							_td_rotten.appendTo(_tr);
+							
+							$('#tb').find('tbody').append(_tr);
+						}
+						
+						$(document).ready(function() {
+							$.ajax({
+								type: "GET",
+								url: "movielist/movielist.xml",
+								dataType: "xml",
+								timeout: "5000",
+								error: function(request, option, error) {
+									console.log($(error));
+								},
+								success: function(xml, status, xhr) {
+									var index = 0;
+									var genre = "";
+									var title = "";
+									if((title = decodeURIComponent(atob(getHash('#title')))) != "") {
+										document.title = title + ' - ' + document.title;
+										var allData = $(xml).find('movie');
+										var moviesData = allData.filter(function(){
+											var regExp = new RegExp(title, 'i');
+											return regExp.test($(this).find('title').first().text());
+										});
+										moviesData.sort(function(a, b) {
+											var _a_year = $(a).find('year').first().text();
+											var _b_year = $(b).find('year').first().text();
+											
+											if(_a_year == _b_year) {
+												var _a_title = $(a).find('title').first().text();
+												var _b_title = $(b).find('title').first().text();
+												return _a_title.localeCompare(_b_title);
+											} else {
+												return _b_year - _a_year;
+											}
+										}).each(function(){
+											displayMovies($(this));
+										});
+										$('#movie_type').text('You searched : "' + title + '" (' + moviesData.length + ' of ' + allData.length + ' results)');
+									} else if((genre = decodeURIComponent(atob(getHash('#genre')))) != "") {
+										document.title = genre + ' - ' + document.title;
+										$('#movie_type').text(genre + ' Movies');
+										$(xml).find('movie').filter(function(){
+											var regExp = new RegExp( '\\b' + genre + '\\b', 'i');
+											var isFound = false;
+											$(this).find('genres').find('genre').each(function() {
+												if(regExp.test($(this).text()))
+												{
+													isFound = true;
+													return false;
+												}
+											});
+											return isFound;
+										}).sort(function(a, b) {
+											var _a_year = $(a).find('year').first().text();
+											var _b_year = $(b).find('year').first().text();
+											
+											if(_a_year == _b_year) {
+												var _a_title = $(a).find('title').first().text();
+												var _b_title = $(b).find('title').first().text();
+												return _a_title.localeCompare(_b_title);
+											} else {
+												return _b_year - _a_year;
+											}
+										}).each(function(){
+											displayMovies($(this));
+										});
+									} else if(window.location.hash == "") {
+										document.title = 'All movies - ' + document.title;
+										$(xml).find('movie').sort(function(a, b) {
+											var _a_year = $(a).find('year').first().text();
+											var _b_year = $(b).find('year').first().text();
+											
+											if(_a_year == _b_year) {
+												var _a_title = $(a).find('title').first().text();
+												var _b_title = $(b).find('title').first().text();
+												return _a_title.localeCompare(_b_title);
+											} else {
+												return _b_year - _a_year;
+											}
+										}).each(function() {
+											displayMovies($(this));
+										});;
+									} else {
+										window.location.replace('movielist/movies.html');
+									}
+								}
+							});
+						});
+					</script>			
+				</div>
+			</div>
+		</div>
+		<hr/>
+		<footer class="container-fluid" style="background: black;">
+			<div class="container-fluid" style="width: 80%; margin: auto;">
+				<div id="footerImg">
+					<h4><a href="../SmartMovieReview">Smart Movie Review Channel</a></h4>
+				</div>
+				<div id="footerMenu" class="text-right">
+					<a href="../SmartMovieReview">Home</a> |
+					<a href="movielist/movies.html">Movies</a> |
+					<a href="news.html">News</a> |
+					<a href="contactus.html">Contact Us</a> |
+					<a href="aboutus.html">About Us</a>
+				</div>
+				<div id="footerText">
+					<p class="text-justify">Smart Movie Review Channel is optimized for viewing, finding and writing movies and film. Site's Information is constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.</p>
+					<p class="text-center">Copyright 1999-2016 by University of Information Technology (UIT). All Rights Reserved.</p>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,93 @@
+.ui-autocomplete {
+	max-height: 300px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-right: 20px;
+	border: 1px solid #22;
+	position: abosulte; 
+	width: 190px;
+}
+
+*:hover, *:focus {
+	outline: none !important
+}
+
+body {
+	overflow-x: hidden;
+}
+
+body.modal-open {
+    overflow: hidden;
+}
+
+body#movieReview {
+	z-index: 1;
+}
+
+body#movieReview:before {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: scroll;
+	opacity: 0.2;
+	filter:alpha(opacity=40);
+	height:100%;
+	width:100%;
+}
+
+body#movieReview div#mainbody {
+	width: 95%;
+	margin: 20px auto 0px auto;
+	z-index:-1;
+	opacity: 1;
+	filter:alpha(opacity=100);
+}
+
+div#mainbody {
+	width: 95%;
+	margin: 20px auto 0px auto;
+}
+
+div#myNavbar ul form div.form-group-sm {
+	margin-top: 10px;
+}
+hr {
+	height: 5px;
+}
+div#footerImg {
+	float: left;
+}
+div#footerImg h4 a:hover, div#footerImg h4 a:focus {
+	text-decoration: none;
+}
+div#footerMenu {
+	padding-top: 10px;
+	word-spacing: 6px;
+}
+div#footerText {
+	clear: both;
+}
+div#footerText p {
+	font-size: 10px;
+}
+footer {
+	background-color: black;
+}
+footer > div.container-fluid {
+	width: 80%; 
+	margin: auto;
+}
+footer, footer a{
+	cursor: default;
+	color: #d4d4d4;
+}
+footer a:hover, footer a:focus {
+	color: #FFFFFF;
+	cursor: pointer;
+}
